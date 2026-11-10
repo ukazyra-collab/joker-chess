@@ -1,0 +1,82 @@
+JOKER CHESS REELS, batch 2 (10 Nov): one reel per bait. Captions to paste, one block per video.
+Soft ending in the video (no "link in bio"): the last line over the board, then the app as it sits in the stores.
+
+Shared credits (A1, C1, D1, E1 use the players and engines): Magnus Carlsen: Miroslav.vajdic (CC BY 4.0); Hikaru Nakamura: ChessKelly (CC BY 4.0); Ian Nepomniachtchi: Andreas Kontokanis (CC BY-SA 2.0). Logos: Stockfish (GPLv3), Leela Chess Zero (public domain); engine ratings: TCEC. Candidates results: Wikipedia.
+
+
+=== Joker_Chess_A1.mp4 — The queen used to be the weakest piece ===
+For centuries the queen could only move one square diagonally. Around 1475 in Valencia, Spain, she got the moves of a rook and a bishop combined, and people called the new game "mad queen" chess. The game on the board is the 1475 Valencia game from the poem Scachs d'amor, often called the first recorded game of modern chess.
+
+Five hundred years later, the World Championship went 19 classical games in a row without a winner (2016 to 2021). Joker Chess adds one small change: one extra move per player, once per game.
+
+What rule would you change in chess?
+Joker Chess is free on iPhone and Android.
+
+#chess #chesshistory #queen #worldchampionship #chessvariant #jokerchess #chessreels
+
+Photos and logos: see shared credits.
+
+
+=== Joker_Chess_B1.mp4 — Capablanca said chess would die ===
+In 1921 José Raúl Capablanca, the new world champion, warned that chess would die "the death of the draw": top players would know the game so well that every game ends level. His fix was a bigger board with two new pieces, the Chancellor and the Marshal (The Times, 1929). It never caught on.
+
+About a hundred years later, the 2018 World Championship had twelve classical games and twelve draws. Joker Chess keeps the board and adds one move per player.
+
+Was Capablanca right?
+Joker Chess is free on iPhone and Android.
+
+#chess #capablanca #chesshistory #worldchampionship #chessvariant #jokerchess #chessreels
+
+Photos: José Raúl Capablanca, 1921: Agence Rol (public domain); Capablanca 1920 and 1931 (public domain); The Times, 1929 (public domain); London 2018: Pablo Martínez Rodríguez (CC BY-SA 4.0). Candidates results: Wikipedia.
+
+
+=== Joker_Chess_C1.mp4 — Checkmate at the opera ===
+Paris, 1858: Paul Morphy, 21, played two noblemen during an opera, with his back to the stage, and won in 17 moves: 16.Qb8+! Nxb8 17.Rd8 mate. The whole game plays on the board.
+
+Top chess rarely looks like this anymore: openings are prepared with engines and most games end in a draw. Bobby Fischer's answer was to shuffle the pieces. Joker Chess keeps the pieces where they are and adds one move.
+
+Would you sacrifice your queen?
+Joker Chess is free on iPhone and Android.
+
+#chess #morphy #operagame #chesshistory #chesstactics #jokerchess #chessreels
+
+Photos: Paul Morphy, 1859 (public domain); Bobby Fischer 1960: Ulrich Kohls / Bundesarchiv (CC BY-SA 3.0 de), colourised by Karpouzi (CC BY-SA 3.0); Carlsen–Caruana, London 2018: Pablo Martínez Rodríguez (CC BY-SA 4.0). Logos and Candidates: see shared credits.
+
+
+=== Joker_Chess_D1.mp4 — 19 draws in a row ===
+From 2016 to 2021 the World Championship went 19 classical games in a row without a winner: games 11 and 12 in 2016, all twelve in 2018 and the first five in 2021. Game 6 in Dubai ended it: Magnus Carlsen beat Ian Nepomniachtchi in 136 moves and almost eight hours, the longest game in World Championship history.
+
+Fischer shuffled the pieces, and the 2005 Sofia tournament banned draw offers. Joker Chess adds one extra move per player, and no team can prepare every square it might land on.
+
+Would you watch an eight-hour game?
+Joker Chess is free on iPhone and Android.
+
+#chess #worldchampionship #carlsen #chess960 #chessvariant #jokerchess #chessreels
+
+Photos: London 2018: Pablo Martínez Rodríguez (CC BY-SA 4.0); Rob Mieremet / Anefo, Nationaal Archief (CC0); Bobby Fischer 1960: Ulrich Kohls / Bundesarchiv (CC BY-SA 3.0 de), colourised by Karpouzi (CC BY-SA 3.0); headline: chessbase.com, 1 April 2005. Players and logos: see shared credits.
+
+
+=== Joker_Chess_E1.mp4 — Computers solved checkers ===
+In 2007 a team at the University of Alberta proved that checkers is a draw if both sides play perfectly. The work took about 18 years. Chess is too big to solve, but computers already know perfect play in every position with seven pieces or fewer, and many experts expect perfect chess to be a draw too.
+
+Joker Chess makes the game bigger without changing how the pieces move: after two moves each, about 197 thousand possible games become over 114 million.
+
+Should chess be solved?
+Joker Chess is free on iPhone and Android.
+
+#chess #checkers #draughts #chessengine #chessvariant #jokerchess #chessreels
+
+Draughts board and pieces: our own drawing. Players, logos and Candidates: see shared credits.
+
+
+=== Joker_Chess_F1.mp4 — Chessboxing and "the Joker" ===
+Chessboxing switches between rounds of chess and rounds of boxing. The first event was held in 2003, and its founder, Dutch artist Iepe Rubingh, fought as "the Joker".
+
+Chess.com has duck chess, and atomic chess, where every capture blows up the pieces around it (on the board: 1.Nf3 d5 2.Ne5 Nf6? 3.Nxf7 blows up the black king). Joker Chess keeps real chess and adds one Joker Move per game.
+
+Chess or boxing first?
+Joker Chess is free on iPhone and Android.
+
+#chess #chessboxing #chessvariant #duckchess #atomicchess #jokerchess #chessreels
+
+Photos: chessboxing, Berlin 2008: WCBO (CC BY 3.0 DE); Berlin 2007: Sascha Pohflepp (CC BY 2.0); Iepe Rubingh: Delilahfriedman (CC BY-SA 4.0); Rob Mieremet / Anefo, Nationaal Archief (CC0).
