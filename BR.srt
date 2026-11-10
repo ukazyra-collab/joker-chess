@@ -1,0 +1,135 @@
+1
+00:00:00,150 --> 00:00:04,295
+This is Joker Chess, a new chess variant that's gaining popularity.
+
+2
+00:00:04,345 --> 00:00:10,060
+It's regular chess with one extra move per player, and that move changes how the whole game feels.
+
+3
+00:00:10,260 --> 00:00:14,279
+Once per game, instead of a normal move, you can make a Joker Move.
+
+4
+00:00:14,299 --> 00:00:18,221
+Your queen, rook, bishop or knight jumps to any empty square.
+
+5
+00:00:18,271 --> 00:00:20,008
+Kings and pawns can't jump.
+
+6
+00:00:20,058 --> 00:00:24,435
+The jump can't capture and can't give check, and your own king must be safe after it.
+
+7
+00:00:24,635 --> 00:00:26,526
+Everything else is regular chess.
+
+8
+00:00:26,776 --> 00:00:31,418
+With that jump, your rook can land on an open file and threaten mate on the back rank.
+
+9
+00:00:31,568 --> 00:00:35,077
+The jump can't give check, so the other side gets one move to answer.
+
+10
+00:00:35,577 --> 00:00:38,969
+Your rook can also land on the king's file and pin the queen.
+
+11
+00:00:39,869 --> 00:00:41,853
+Your bishop can do the same on a diagonal.
+
+12
+00:00:42,753 --> 00:00:45,963
+Your knight can land where it hits the queen and a rook at once.
+
+13
+00:00:46,863 --> 00:00:50,107
+And a knight can land near the king, so the mate can't be stopped.
+
+14
+00:00:51,707 --> 00:00:53,722
+All of this can happen to you too.
+
+15
+00:00:53,822 --> 00:00:58,697
+While your opponent still has their Joker, any empty square can hide a fork or a mating threat.
+
+16
+00:00:58,747 --> 00:01:00,532
+But your own Joker can get you out.
+
+17
+00:01:00,582 --> 00:01:04,511
+If their rook pins your queen, your rook can jump into the line and save it.
+
+18
+00:01:05,411 --> 00:01:08,674
+And when a check would be mate, a rook can jump in and block it.
+
+19
+00:01:09,024 --> 00:01:13,758
+So the tension stays on, and every move counts while at least one Joker is left.
+
+20
+00:01:13,858 --> 00:01:18,344
+Even when you're losing, you're still in the game, because one jump can turn it around.
+
+21
+00:01:19,444 --> 00:01:24,781
+The developers estimate that a Joker still in hand is worth about 150 rating points on average.
+
+22
+00:01:24,831 --> 00:01:28,214
+That's a real edge, though a beginner still won't beat a grandmaster.
+
+23
+00:01:28,414 --> 00:01:34,202
+On the first move, White has 20 options in regular chess and 240 with the Joker Move.
+
+24
+00:01:34,452 --> 00:01:43,720
+After two moves each, 197 thousand possible games become over 114 million, almost 580 times more.
+
+25
+00:01:43,970 --> 00:01:46,342
+So memorized openings run out much sooner.
+
+26
+00:01:46,842 --> 00:01:51,055
+Players say it's more gripping than regular chess, and that it's hard to go back after it.
+
+27
+00:01:51,305 --> 00:01:55,132
+The app is free, and you can play right now, alone or with other people.
+
+28
+00:01:55,232 --> 00:01:58,637
+Bots need no sign-up, and a friend joins with a four-digit code.
+
+29
+00:01:58,787 --> 00:02:01,516
+Online, a rated game starts within seconds.
+
+30
+00:02:01,716 --> 00:02:05,053
+The developers also built their own engine for Joker Chess.
+
+31
+00:02:05,203 --> 00:02:07,944
+After every game, it gives you a free review.
+
+32
+00:02:07,994 --> 00:02:12,363
+It shows each Joker Move that was missed, and how much it would have changed the game.
+
+33
+00:02:12,613 --> 00:02:14,505
+And the puzzles train you to find them.
+
+34
+00:02:14,855 --> 00:02:19,131
+Joker Chess is on the App Store and Google Play, and the community keeps growing.

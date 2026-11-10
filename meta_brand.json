@@ -1,0 +1,50 @@
+{
+ "BR_horizontal": {
+  "title": "Joker Chess Explained: Chess With One Extra Move",
+  "desc": "Joker Chess is regular chess with one extra move. Once per game, each player can make a Joker Move: a queen, rook, bishop or knight jumps to any empty square, without capturing and without giving check. Everything else is regular chess.\n\n0:00 What is Joker Chess\n0:10 The rule\n0:26 What one jump can do\n0:51 When it happens to you\n1:19 150 rating points and 114 million games\n1:46 The app, the engine and the review\n\nOne Joker Move can threaten mate on the back rank, pin a queen to the king, fork a queen and a rook, or block a check that would be mate in regular chess. As long as your opponent still has their Joker, any empty square can hide a threat, so every move counts. By the developers' estimate, a Joker still in hand is worth about 150 rating points on average. On the first move White has 240 options instead of 20, and after two moves each there are over 114 million possible games instead of 197 thousand.\n\nThe Joker Chess app is free: play bots without signing up, play rated games online, invite a friend with a four-digit code, get a free engine review after every game that shows each missed Joker Move, and train with Joker Move puzzles.\n\nPlay free:\nApp Store: https://apps.apple.com/app/id6828439421\nGoogle Play: https://play.google.com/store/apps/details?id=com.kozyramedia.goldenchess\nWeb: https://joker-chess.com\n\n#jokerchess #chess #chessvariant",
+  "tags": [
+   "joker chess",
+   "joker chess rules",
+   "joker chess app",
+   "joker move",
+   "chess variant",
+   "chess variants",
+   "chess with a twist",
+   "new chess variant",
+   "chess rules",
+   "chess app",
+   "free chess app",
+   "chess tactics",
+   "chess puzzles",
+   "play chess online",
+   "chess bots",
+   "chess game review"
+  ],
+  "thumb": "covers/BR_youtube.jpg",
+  "captions": "BR.srt"
+ },
+ "BR_vertical": {
+  "title": "What Is Joker Chess? Chess With One Extra Move",
+  "desc": "Joker Chess is regular chess with one extra move per player: once per game, a queen, rook, bishop or knight jumps to any empty square, without capturing and without giving check. Free on the App Store and Google Play: https://joker-chess.com\n\n#jokerchess #chess #chessvariant",
+  "tags": [
+   "joker chess",
+   "joker chess rules",
+   "joker chess app",
+   "joker move",
+   "chess variant",
+   "chess variants",
+   "chess with a twist",
+   "new chess variant",
+   "chess rules",
+   "chess app",
+   "free chess app",
+   "chess tactics",
+   "chess puzzles",
+   "play chess online",
+   "chess bots",
+   "chess game review"
+  ],
+  "thumb": "covers/BR_cover.jpg",
+  "ig": "Joker Chess is regular chess with one extra move. Once per game, your queen, rook, bishop or knight can jump to any empty square, without capturing and without giving check. One jump can threaten mate on the back rank, pin a queen, fork a queen and a rook, or block a mate that would end the game in regular chess. And while your opponent still has their Joker, every move counts.\n\nThe developers built their own engine for it. It plays the bots, from beginner to master, and every game gets a free review that shows each missed Joker Move. Online rated games, a friend code and Joker Move puzzles are in the app too. Free on the App Store and Google Play.\n\nWhich piece would you jump first?\n\n#jokerchess #chess #chessvariant #chessrules #chesstactics #chessapp #chessreels"
+ }
+}
