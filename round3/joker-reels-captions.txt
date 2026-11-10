@@ -1,0 +1,121 @@
+JOKER CHESS REELS, round 3 (10 Nov) — captions to paste, one block per video
+
+Shared part of every K video (the fixes): photos via Wikimedia Commons: Rob Mieremet / Anefo, Nationaal Archief (CC0); Bobby Fischer 1960: Ulrich Kohls / Bundesarchiv (CC BY-SA 3.0 de), colourised by Karpouzi (CC BY-SA 3.0); Magnus Carlsen: Miroslav.vajdic (CC BY 4.0); Hikaru Nakamura: ChessKelly (CC BY 4.0); Ian Nepomniachtchi: Andreas Kontokanis (CC BY-SA 2.0); Gukesh: Frans Peeters (CC BY-SA 2.0); duck chess on chess.com: Jorsh Poeschy (CC BY-SA 4.0).
+Add that line to each K post below, after the video's own credits.
+
+
+=== Joker_Chess_K.mp4 — Why chess got boring ===
+2018 World Championship: 12 classical games, 12 draws. The strongest engines draw so often that their tournaments force them into strange openings.
+
+Top players prepare their openings at home with engines, so the first moves are often just memory. Chess960, team chess and duck chess all tried to fix it. Joker Chess keeps chess as it is and adds one move: after two moves each there are over 114 million possible games instead of about 197 thousand.
+
+Is top-level chess too drawish? Tell us below.
+Free on iPhone and Android, link in bio.
+
+#chess #grandmaster #worldchampionship #chess960 #chessvariant #jokerchess #chessreels
+
+Photos: Pablo Martínez Rodríguez (CC BY-SA 4.0). Engine game: TCEC Season 28 Superfinal, Stockfish vs Leela Chess Zero (tcec-chess.com), TCEC ratings. Logos: Stockfish (GPLv3), Leela Chess Zero (public domain).
+
+
+=== Joker_Chess_K2.mp4 — Nobody could win this match ===
+1984: the World Championship match went on for five months and 48 games, from 10 September to 8 February. Karpov won five, Kasparov three, 40 were draws, and the match was stopped with no winner.
+
+Top-level chess still ends in a draw most of the time: the video flies over the 2024 and 2022 Candidates. Joker Chess adds one move per game: once, you can put a queen, rook, bishop or knight on any empty square. 197 thousand possible games after two moves each become over 114 million.
+
+Could you have sat through 48 games?
+Free on iPhone and Android, link in bio.
+
+#chess #karpov #kasparov #worldchampionship #chesshistory #jokerchess #chessreels
+
+Photos: Owen Williams, The Kasparov Agency (CC BY-SA 3.0), Sjakkelien Vollebregt / Anefo, Nationaal Archief (CC0), 1984 newspaper cartoon: Micivek (CC BY-SA 4.0), Pablo Martínez Rodríguez (CC BY-SA 4.0). Game dates and results: the 1984–85 match record; Candidates results: Wikipedia.
+
+
+=== Joker_Chess_K3.mp4 — Grandmasters don't get mated ===
+Grandmasters almost never get checkmated. They see it coming, shake hands and resign, or just agree to a draw. In 2005 a super-GM event in Sofia banned draw offers altogether.
+
+In Joker Chess a lost position isn't always lost: once per game a rook can jump in and block the mate.
+
+Would you take the draw or play on?
+Free on iPhone and Android, link in bio.
+
+#chess #checkmate #grandmaster #chesstactics #chessvariant #jokerchess #chessreels
+
+Footage: Norway Chess 2026, Praggnanandhaa vs Carlsen (Norway Chess on YouTube); the final minutes of the FIDE World Championship 2024 (FIDE on YouTube). Photo: Eric Koch / Anefo, Nationaal Archief (CC0). Headline: ChessBase, 1 April 2005.
+
+
+=== Joker_Chess_K4.mp4 — Even engines play for a draw ===
+Stockfish and Leela Chess Zero, two of the strongest engines, draw so often that their championship forces them into strange openings just to get a winner. Most experts think perfect chess is simply a draw.
+
+Joker Chess adds one move per game, and after two moves each there are over 114 million possible games. Engines can still calculate that. Nobody can memorize it.
+
+Is chess "solved" for humans? Tell us below.
+Free on iPhone and Android, link in bio.
+
+#chess #stockfish #chessengine #grandmaster #chessvariant #jokerchess #chessreels
+
+Engine games and ratings: TCEC Season 28 Superfinal, August–September 2025 (tcec-chess.com). Logos: Stockfish (GPLv3), Leela Chess Zero (public domain). Photos: Pablo Martínez Rodríguez (CC BY-SA 4.0), Miroslav.vajdic (CC BY 4.0).
+
+
+=== Joker_Chess_K5.mp4 — Chess added sudden death ===
+Norway Chess got so tired of draws that it changed the rules: every drawn classical game goes straight into Armageddon, and a draw there counts as a win for Black.
+
+At the top, game after game still ends in a draw. Joker Chess keeps chess as it is and adds one move per game, so 197 thousand possible games after two moves each become over 114 million.
+
+Armageddon after every draw: genius or too much?
+Free on iPhone and Android, link in bio.
+
+#chess #norwaychess #armageddon #grandmaster #chessvariant #jokerchess #chessreels
+
+Footage: Norway Chess 2026 (Norway Chess on YouTube). Photo: Pablo Martínez Rodríguez (CC BY-SA 4.0). Candidates results: Wikipedia.
+
+
+=== Joker_Chess_K6.mp4 — The wall that stopped Kasparov ===
+2000: Kramnik took the world title from Kasparov with 2 wins, 13 draws and 0 losses, thanks to the Berlin Defence, the "Berlin Wall". In its main line the queens come off by move 8.
+
+That's what opening prep does to chess. Joker Chess adds one move per game, and you can't build a wall against 114 million possible games.
+
+Would you play the Berlin?
+Free on iPhone and Android, link in bio.
+
+#chess #kasparov #kramnik #berlindefense #chesshistory #jokerchess #chessreels
+
+Photos: Bart Molendijk / Anefo, Nationaal Archief (CC0), Paweł Grochowalski (CC BY-SA 3.0), Andreas Kontokanis (CC BY-SA 2.0), Pablo Martínez Rodríguez (CC BY-SA 4.0).
+
+
+=== Joker_Chess_K7.mp4 — More games than atoms ===
+By Claude Shannon's estimate there are more possible chess games than atoms in the observable universe. So why do the best players keep drawing?
+
+Most of those games are full of terrible moves, and in the opening engines have already shown which moves are best: the classical openings are played from memory. Joker Chess adds one move per game: over 57 thousand possible games after one move each, over 114 million after two.
+
+Did you know the fool's mate in the video?
+Free on iPhone and Android, link in bio.
+
+#chess #math #science #chessfacts #chessvariant #jokerchess #chessreels
+
+Images: NASA / ESA Hubble Ultra Deep Field (public domain), Pablo Martínez Rodríguez (CC BY-SA 4.0).
+
+
+=== Joker_Chess_K8.mp4 — The champion chose a draw ===
+2018 World Championship, last classical game: Magnus Carlsen had a slightly better position and more time, and offered a draw. Kasparov and Kramnik criticized him. He then won the rapid tiebreak 3-0. All 12 classical games, from 9 to 26 November, were draws.
+
+Joker Chess adds one move per game so the opening can't be prepared to death: over 114 million possible games after two moves each.
+
+Right call or a mistake?
+Free on iPhone and Android, link in bio.
+
+#chess #magnuscarlsen #worldchampionship #grandmaster #chessvariant #jokerchess #chessreels
+
+Photos: Pablo Martínez Rodríguez (CC BY-SA 4.0), Somorjai Zsolt (CC BY-SA 4.0), Paweł Grochowalski (CC BY-SA 3.0). Game 12 moves: the real game; evaluation by Stockfish.
+
+
+=== Joker_Chess_C.mp4 — Everything one extra move can do ===
+What if one piece could teleport, once per game?
+
+That's Joker Chess: normal chess plus one special move for each player. It turns 20 first moves into 240. A rook lands on the queen's file and pins it. A knight drops into a fork. A bishop pins the queen on the diagonal. A rook blocks a check that would be mate. A knight drops next to the king and the mate can't be stopped. And your opponent has a Joker too.
+
+Which one would you try first?
+Free on iPhone and Android, link in bio.
+
+#chess #chessvariant #chesstactics #boardgames #jokerchess #chessreels
+
+All positions are the app's own examples, checked with the engine. The comments in the video come from the Joker Chess team's own accounts (badge next to each name).
