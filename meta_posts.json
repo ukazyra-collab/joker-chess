@@ -1,0 +1,298 @@
+{
+ "tz": "Asia/Dubai",
+ "note": "IG: carousel = ig images in order + ig caption. YouTube post: yt images in order + yt text. Polls: YouTube only, text poll with 2 answers; after it is live, pin the comment.",
+ "posts": [
+  {
+   "id": "C1_gates",
+   "when": "2026-11-11 20:00",
+   "ig_images": [
+    "posts/C1_gates/ig/01.jpg",
+    "posts/C1_gates/ig/02.jpg",
+    "posts/C1_gates/ig/03.jpg",
+    "posts/C1_gates/ig/04.jpg",
+    "posts/C1_gates/ig/05.jpg",
+    "posts/C1_gates/ig/06.jpg",
+    "posts/C1_gates/ig/07.jpg",
+    "posts/C1_gates/ig/08.jpg"
+   ],
+   "yt_images": [
+    "posts/C1_gates/yt/01.jpg",
+    "posts/C1_gates/yt/02.jpg",
+    "posts/C1_gates/yt/03.jpg",
+    "posts/C1_gates/yt/04.jpg",
+    "posts/C1_gates/yt/05.jpg",
+    "posts/C1_gates/yt/06.jpg",
+    "posts/C1_gates/yt/07.jpg",
+    "posts/C1_gates/yt/08.jpg"
+   ],
+   "ig_caption": "Bill Gates vs the world chess champion. Who wins?\nIn 2014, on the TV show Skavlan, Bill Gates played Magnus Carlsen. Carlsen gave him 2 minutes on the clock and kept only 30 seconds for himself. Gates took a free bishop and was checkmated two moves later: 9 moves, 79 seconds. In 2025 Carlsen beat ChatGPT in 53 moves without losing a single piece.\nHow long would you last against Magnus?\nJoker Chess is regular chess with one extra move: once per game, a queen, rook, bishop or knight can jump to any empty square. Free, link in bio.\n#chess #billgates #magnuscarlsen #chessfacts #chesscarousel #jokerchess\nVideo: Skavlan, 2014. Photo: Magnus Carlsen, Tata Steel 2023: Frans Peeters (CC BY-SA 2.5).",
+   "yt_text": "Bill Gates vs the world chess champion. Swipe to see how long he lasted.\nPlay Joker Chess, chess with one extra move: https://joker-chess.com"
+  },
+  {
+   "id": "P1_mate_in_1",
+   "when": "2026-11-12 00:00",
+   "ig_images": [
+    "posts/P1_mate_in_1/ig/01.jpg"
+   ],
+   "yt_images": [
+    "posts/P1_mate_in_1/yt/01.jpg"
+   ],
+   "ig_caption": "White to move and mate in one. Comment your move.\nFollow @playjokerchess for more chess.\n#chess #chesspuzzle #mateinone #chesstactics #learnchess",
+   "yt_text": "White to move and mate in one. Comment your move."
+  },
+  {
+   "id": "C5_traps",
+   "when": "2026-11-12 04:00",
+   "ig_images": [
+    "posts/C5_traps/ig/01.jpg",
+    "posts/C5_traps/ig/02.jpg",
+    "posts/C5_traps/ig/03.jpg",
+    "posts/C5_traps/ig/04.jpg",
+    "posts/C5_traps/ig/05.jpg",
+    "posts/C5_traps/ig/06.jpg",
+    "posts/C5_traps/ig/07.jpg"
+   ],
+   "yt_images": [
+    "posts/C5_traps/yt/01.jpg",
+    "posts/C5_traps/yt/02.jpg",
+    "posts/C5_traps/yt/03.jpg",
+    "posts/C5_traps/yt/04.jpg",
+    "posts/C5_traps/yt/05.jpg",
+    "posts/C5_traps/yt/06.jpg",
+    "posts/C5_traps/yt/07.jpg"
+   ],
+   "ig_caption": "5 chess traps that win in under 10 moves. Save it for your next game.\n1. Fool's Mate  2. Scholar's Mate  3. Legal's Mate  4. Blackburne Shilling Trap  5. Fishing Pole Trap\nWhich one got you? Comment the number.\nFollow @playjokerchess for more chess.\n#chess #chesstraps #chesstips #chessopenings #learnchess #chessforbeginners",
+   "yt_text": "5 chess traps that win in under 10 moves. Which one got you? Comment the number."
+  },
+  {
+   "id": "C2_toilet",
+   "when": "2026-11-12 08:00",
+   "ig_images": [
+    "posts/C2_toilet/ig/01.jpg",
+    "posts/C2_toilet/ig/02.jpg",
+    "posts/C2_toilet/ig/03.jpg",
+    "posts/C2_toilet/ig/04.jpg",
+    "posts/C2_toilet/ig/05.jpg",
+    "posts/C2_toilet/ig/06.jpg",
+    "posts/C2_toilet/ig/07.jpg"
+   ],
+   "yt_images": [
+    "posts/C2_toilet/yt/01.jpg",
+    "posts/C2_toilet/yt/02.jpg",
+    "posts/C2_toilet/yt/03.jpg",
+    "posts/C2_toilet/yt/04.jpg",
+    "posts/C2_toilet/yt/05.jpg",
+    "posts/C2_toilet/yt/06.jpg",
+    "posts/C2_toilet/yt/07.jpg"
+   ],
+   "ig_caption": "Caught cheating on the toilet.\nIn 2019, at a tournament in Strasbourg, 58-year-old grandmaster Igors Rausis was photographed in the toilet with his phone. He had climbed from 2518 to 2686 in six years and was the oldest player in the world's top 100. He signed that the phone was his, admitted cheating, lost his grandmaster title and got a six-year ban.\nToday a free app on any phone plays better than any human. Joker Chess adds one jump per game, and the big engines weren't built for it. Free, link in bio.\nShould cheaters get a lifetime ban?\n#chess #chesscheating #chessnews #grandmaster #chessfacts #jokerchess\nPhoto: Strasbourg Open 2019, via The Telegraph. Video: Strasbourg Chess Open; Chess-News. Photo: Igors Rausis: Mt7 (CC BY-SA 3.0). Ratings: FIDE.",
+   "yt_text": "A grandmaster, a phone and a tournament toilet. Swipe for the whole story.\nJoker Chess, a version the engines weren't built for: https://joker-chess.com"
+  },
+  {
+   "id": "P3_atoms",
+   "when": "2026-11-12 12:00",
+   "ig_images": [
+    "posts/P3_atoms/ig/01.jpg"
+   ],
+   "yt_images": [
+    "posts/P3_atoms/yt/01.jpg"
+   ],
+   "ig_caption": "Claude Shannon estimated more possible chess games than there are atoms in the observable universe: about 10^120 games vs about 10^80 atoms.\nFollow @playjokerchess for more chess.\n#chess #chessfacts #math #science #chesslover",
+   "yt_text": "Claude Shannon estimated more possible chess games than there are atoms in the observable universe: about 10^120 games vs about 10^80 atoms."
+  },
+  {
+   "id": "C3_niemann",
+   "when": "2026-11-12 16:00",
+   "ig_images": [
+    "posts/C3_niemann/ig/01.jpg",
+    "posts/C3_niemann/ig/02.jpg",
+    "posts/C3_niemann/ig/03.jpg",
+    "posts/C3_niemann/ig/04.jpg",
+    "posts/C3_niemann/ig/05.jpg",
+    "posts/C3_niemann/ig/06.jpg",
+    "posts/C3_niemann/ig/07.jpg"
+   ],
+   "yt_images": [
+    "posts/C3_niemann/yt/01.jpg",
+    "posts/C3_niemann/yt/02.jpg",
+    "posts/C3_niemann/yt/03.jpg",
+    "posts/C3_niemann/yt/04.jpg",
+    "posts/C3_niemann/yt/05.jpg",
+    "posts/C3_niemann/yt/06.jpg",
+    "posts/C3_niemann/yt/07.jpg"
+   ],
+   "ig_caption": "He beat Magnus. Magnus quit.\nOn 4 September 2022, at the Sinquefield Cup, 19-year-old Hans Niemann beat world champion Magnus Carlsen with Black. The next day Carlsen quit the tournament and hinted that Niemann had cheated. Two weeks later, online, Carlsen resigned after one move. Niemann admitted cheating online as a kid but denied ever cheating over the board. He sued for 100 million dollars, and in 2023 both sides settled; Carlsen said there was no clear proof that Niemann cheated in their game.\nIf they ever play again: Joker Chess, a version nobody can prepare at home. Free, link in bio.\n#chess #magnuscarlsen #hansniemann #sinquefieldcup #chessnews #jokerchess\nVideo: Saint Louis Chess Club. Photos: Magnus Carlsen, 2023, and Hans Niemann, 2024: Frans Peeters (CC BY-SA 2.0). Game: Carlsen-Niemann, Sinquefield Cup 2022, round 3.",
+   "yt_text": "The game that made the world champion quit. Swipe through the whole story.\nJoker Chess, a version nobody can prepare at home: https://joker-chess.com"
+  },
+  {
+   "id": "P2_fool",
+   "when": "2026-11-12 20:00",
+   "ig_images": [
+    "posts/P2_fool/ig/01.jpg"
+   ],
+   "yt_images": [
+    "posts/P2_fool/yt/01.jpg"
+   ],
+   "ig_caption": "The fastest checkmate in chess: 1.f3 e5 2.g4?? Qh4#. Ever lost like this?\nFollow @playjokerchess for more chess.\n#chess #foolsmate #chesstraps #chessforbeginners #learnchess",
+   "yt_text": "The fastest checkmate in chess: 1.f3 e5 2.g4?? Qh4#. Ever lost like this?"
+  },
+  {
+   "id": "C4_draws",
+   "when": "2026-11-13 00:00",
+   "ig_images": [
+    "posts/C4_draws/ig/01.jpg",
+    "posts/C4_draws/ig/02.jpg",
+    "posts/C4_draws/ig/03.jpg",
+    "posts/C4_draws/ig/04.jpg",
+    "posts/C4_draws/ig/05.jpg",
+    "posts/C4_draws/ig/06.jpg",
+    "posts/C4_draws/ig/07.jpg"
+   ],
+   "yt_images": [
+    "posts/C4_draws/yt/01.jpg",
+    "posts/C4_draws/yt/02.jpg",
+    "posts/C4_draws/yt/03.jpg",
+    "posts/C4_draws/yt/04.jpg",
+    "posts/C4_draws/yt/05.jpg",
+    "posts/C4_draws/yt/06.jpg",
+    "posts/C4_draws/yt/07.jpg"
+   ],
+   "ig_caption": "Chess has a draw problem.\n1984: Karpov vs Kasparov, 48 games, 40 draws, stopped after five months with no winner. 2018: Carlsen vs Caruana, all 12 classical games drawn. 2024: Gukesh vs Ding, 9 draws in 14 games, decided by one mistake in the very last game.\nPeople tried shuffled pieces, bughouse, even a duck on the board. Joker Chess keeps the normal start and adds one jump per player. Free, link in bio.\nToo many draws, or is that just chess at the top?\n#chess #worldchesschampionship #magnuscarlsen #gukesh #kasparov #jokerchess\nVideo: Meinas archive; FIDE / ChessBase India.",
+   "yt_text": "48 games, 40 draws. 12 games, 12 draws. Does top chess have a draw problem?\nOne jump per player: https://joker-chess.com"
+  },
+  {
+   "id": "P4_jump",
+   "when": "2026-11-13 04:00",
+   "ig_images": [
+    "posts/P4_jump/ig/01.jpg"
+   ],
+   "yt_images": [
+    "posts/P4_jump/yt/01.jpg"
+   ],
+   "ig_caption": "Once per game, a queen, rook, bishop or knight can jump to any empty square. Would you play it? Yes or no in the comments.\nJoker Chess is free, link in bio.\n#chess #jokerchess #chessvariant #chessgame",
+   "yt_text": "Once per game, a queen, rook, bishop or knight can jump to any empty square. Would you play it? Yes or no in the comments.\nHow it works: https://youtube.com/shorts/1UOu3RjbZv4"
+  }
+ ],
+ "polls": [
+  {
+   "when": "2026-11-12 11:00",
+   "question": "What's your chess rating?",
+   "answers": [
+    "Under 1200",
+    "1200 or higher"
+   ],
+   "text": "What's your chess rating?",
+   "pin": "New here? Joker Chess is chess with one extra move. Here's how it works: https://youtube.com/shorts/1UOu3RjbZv4"
+  },
+  {
+   "when": "2026-11-12 23:00",
+   "question": "Your first move as White?",
+   "answers": [
+    "1. e4",
+    "1. d4"
+   ],
+   "text": "Your first move as White?",
+   "pin": "Tired of draws? One jump per game changes everything: https://youtube.com/shorts/1UOu3RjbZv4"
+  },
+  {
+   "when": "2026-11-13 11:00",
+   "question": "Blitz or classical?",
+   "answers": [
+    "Blitz",
+    "Classical"
+   ],
+   "text": "Blitz or classical?",
+   "pin": "The full explanation in 2 minutes: https://youtu.be/R3z9kpR0Bhc"
+  },
+  {
+   "when": "2026-11-13 23:00",
+   "question": "Ever won a game in under 10 moves?",
+   "answers": [
+    "Yes",
+    "Not yet"
+   ],
+   "text": "Ever won a game in under 10 moves?",
+   "pin": "New here? Joker Chess is chess with one extra move. Here's how it works: https://youtube.com/shorts/1UOu3RjbZv4"
+  },
+  {
+   "when": "2026-11-14 11:00",
+   "question": "Who's the greatest of all time?",
+   "answers": [
+    "Magnus Carlsen",
+    "Garry Kasparov"
+   ],
+   "text": "Who's the greatest of all time?",
+   "pin": "Tired of draws? One jump per game changes everything: https://youtube.com/shorts/1UOu3RjbZv4"
+  },
+  {
+   "when": "2026-11-14 23:00",
+   "question": "Bishop or knight?",
+   "answers": [
+    "Bishop",
+    "Knight"
+   ],
+   "text": "Bishop or knight?",
+   "pin": "The full explanation in 2 minutes: https://youtu.be/R3z9kpR0Bhc"
+  },
+  {
+   "when": "2026-11-15 11:00",
+   "question": "Losing badly: resign or play to mate?",
+   "answers": [
+    "I resign",
+    "Play to mate"
+   ],
+   "text": "Losing badly: resign or play to mate?",
+   "pin": "New here? Joker Chess is chess with one extra move. Here's how it works: https://youtube.com/shorts/1UOu3RjbZv4"
+  },
+  {
+   "when": "2026-11-15 23:00",
+   "question": "Online or over the board?",
+   "answers": [
+    "Online",
+    "Over the board"
+   ],
+   "text": "Online or over the board?",
+   "pin": "Tired of draws? One jump per game changes everything: https://youtube.com/shorts/1UOu3RjbZv4"
+  },
+  {
+   "when": "2026-11-16 11:00",
+   "question": "Too many draws in top chess?",
+   "answers": [
+    "Yes, way too many",
+    "No, it's fine"
+   ],
+   "text": "Too many draws in top chess?",
+   "pin": "The full explanation in 2 minutes: https://youtu.be/R3z9kpR0Bhc"
+  },
+  {
+   "when": "2026-11-16 23:00",
+   "question": "Ever fallen for Scholar's Mate?",
+   "answers": [
+    "Yes",
+    "Never"
+   ],
+   "text": "Ever fallen for Scholar's Mate?",
+   "pin": "New here? Joker Chess is chess with one extra move. Here's how it works: https://youtube.com/shorts/1UOu3RjbZv4"
+  },
+  {
+   "when": "2026-11-17 11:00",
+   "question": "Do you study openings?",
+   "answers": [
+    "Yes",
+    "I just play"
+   ],
+   "text": "Do you study openings?",
+   "pin": "Tired of draws? One jump per game changes everything: https://youtube.com/shorts/1UOu3RjbZv4"
+  },
+  {
+   "when": "2026-11-17 23:00",
+   "question": "Would you try chess with one jump move per game?",
+   "answers": [
+    "Yes, why not",
+    "No, keep it classic"
+   ],
+   "text": "Would you try chess with one jump move per game?",
+   "pin": "The full explanation in 2 minutes: https://youtu.be/R3z9kpR0Bhc"
+  }
+ ]
+}
