@@ -1,0 +1,50 @@
+{
+ "GEPF": {
+  "title": "White has exactly one legal move here #shorts",
+  "desc": "White's king can't move and both white pawns are blocked. It looks like stalemate, but Black's pawn has just moved two squares and landed next to a white pawn, so en passant is legal. It is White's only legal move, so White has to play it.\n\nDid you find the move?\n\n#chess #enpassant #chesspuzzle",
+  "tags": "chess, chess shorts, en passant, stalemate, chess rules, chess puzzle, chess facts",
+  "ig": "White has exactly one legal move. It looks like stalemate, but en passant is forced here. Did you find it?\n\n#chess #enpassant #chessrules #chesspuzzle #stalemate"
+ },
+ "GDCH": {
+  "title": "The check you can't block and can't capture #shorts",
+  "desc": "Réti against Tartakower, Vienna 1910: White gives up the queen, and after the king takes, the bishop moves away with a double check from the bishop and the rook. The king has to run, and one move later it's mate. Against a double check the only answer is a king move.\n\nDid you know this game?\n\n#chess #doublecheck #chesshistory",
+  "tags": "chess, chess shorts, double check, Reti Tartakower 1910, queen sacrifice, chess tactics, famous chess games",
+  "ig": "Two pieces give check at once. You can't block both and you can't take both. Réti played it in Vienna in 1910. Did you know this game?\n\n#chess #doublecheck #chesstactics #chesshistory #queensacrifice"
+ },
+ "GUPR": {
+  "title": "Don't make a queen here #shorts",
+  "desc": "Underpromotion: making a queen loses to a check on the back row, with mate next move. Making a knight gives check and attacks the black queen at the same time. A pawn doesn't have to become a queen.\n\nHave you ever promoted to a knight?\n\n#chess #underpromotion #chesstactics",
+  "tags": "chess, chess shorts, underpromotion, pawn promotion, knight fork, chess tactics, chess rules",
+  "ig": "A pawn doesn't have to become a queen. Here the knight wins the game. Have you ever promoted to a knight?\n\n#chess #underpromotion #chesstactics #knightfork #chessrules"
+ },
+ "GSMO": {
+  "title": "The best move here is to give away the queen #shorts",
+  "desc": "A smothered mate: the queen is given up right next to the king, the rook has to take because the knight guards that square, and the knight gives mate. The king has no way out, because his own pieces stand on every square around him.\n\nWould you have seen it?\n\n#chess #smotheredmate #chesstactics",
+  "tags": "chess, chess shorts, smothered mate, queen sacrifice, chess tactics, checkmate patterns, chess puzzle",
+  "ig": "The queen for nothing, then mate with a knight. It's called a smothered mate. Would you have seen it?\n\n#chess #smotheredmate #chesstactics #checkmate #queensacrifice"
+ },
+ "GPRP": {
+  "title": "About to be checkmated, saved by checks #shorts",
+  "desc": "A perpetual check: White is about to be mated, but the queen checks again and again, and each time the king has only one square. When the same position comes up three times, the game is a draw.\n\nHave you ever saved a lost game like this?\n\n#chess #perpetualcheck #chessrules",
+  "tags": "chess, chess shorts, perpetual check, draw, threefold repetition, chess rules, chess tactics",
+  "ig": "Losing? Keep checking. The same position three times is a draw. Have you ever saved a game like this?\n\n#chess #perpetualcheck #chessrules #chesstactics #draw"
+ },
+ "GLG2": {
+  "title": "He gave up his queen on move five and won two moves later #shorts",
+  "desc": "Légal's Mate, named after a French master from the 1700s: White lets the queen go, and three minor pieces give mate two moves later. 1.e4 e5 2.Nf3 d6 3.Bc4 Bg4 4.Nc3 g6 5.Nxe5 Bxd1 6.Bxf7+ Ke7 7.Nd5#.\n\nWould you take the queen?\n\n#chess #legalsmate #chesstraps",
+  "tags": "chess, chess shorts, Legal's mate, queen sacrifice, chess traps, chess openings, checkmate patterns",
+  "ig": "The queen is gone, and it's mate in two. Légal's Mate, from the 1700s. Would you take the queen?\n\n#chess #legalsmate #chesstraps #queensacrifice #checkmate"
+ },
+ "GST2": {
+  "title": "Is this checkmate? #shorts",
+  "desc": "White is a whole queen up and still doesn't win: one queen move is stalemate, and one square further was checkmate. Before you let go of the queen, make sure the king is in check or still has a move.\n\nHave you ever stalemated a won game?\n\n#chess #stalemate #chessrules",
+  "tags": "chess, chess shorts, stalemate, checkmate, chess for beginners, chess mistakes, chess rules",
+  "ig": "A whole queen up, and it's a draw. Have you ever stalemated a won game?\n\n#chess #stalemate #chessforbeginners #chessrules #checkmate"
+ },
+ "GFO2": {
+  "title": "The fastest checkmate in chess takes just two moves #shorts",
+  "desc": "Fool's Mate: White pushes the f-pawn and the g-pawn, and the black queen gives mate on h4. The king can't move and nothing can block the check. 1.f3 e5 2.g4 Qh4#.\n\nHas it ever happened in one of your games?\n\n#chess #foolsmate #chessfacts",
+  "tags": "chess, chess shorts, fool's mate, fastest checkmate, chess for beginners, chess facts, checkmate patterns",
+  "ig": "Two moves. That's all it takes. Has it ever happened in one of your games?\n\n#chess #foolsmate #chessfacts #chessforbeginners #checkmate"
+ }
+}
