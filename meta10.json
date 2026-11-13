@@ -1,0 +1,32 @@
+{
+ "SQR2": {
+  "title": "Can the black king catch this pawn? #shorts",
+  "desc": "The rule of the square. Black to move: draw a square from the pawn to the last row. If the king can step into the square, he catches the pawn. If he can't, the pawn gets away. Here 1...Ke5 steps in and wins the pawn; with the king on g5 he is one file too far and the pawn queens.\n\nDid you know this rule?\n\n#chess #endgame #chesstips",
+  "tags": "chess, chess shorts, rule of the square, pawn endgame, king and pawn, chess endgames, chess tips, chess for beginners",
+  "ig": "Can the black king catch this pawn? You can tell without counting a single move. Did you know this rule?\n\n#chess #endgame #chesstips #chessendgames #chessforbeginners"
+ },
+ "OPP2": {
+  "title": "White is a pawn up. Win or draw? #shorts",
+  "desc": "The opposition: white king e5, pawn e4, black king e7. With Black to move, the black king has to step aside and the pawn queens: 1...Kd7 2.Kf6 Ke8 3.e5 Kf8 4.e6 Ke8 5.e7 Kd7 6.Kf7 and 7.e8=Q. With White to move, the black king keeps blocking the pawn and it ends in stalemate. Same position, and only the turn decides. Both lines checked with an endgame tablebase.\n\nWould you have known?\n\n#chess #endgame #opposition",
+  "tags": "chess, chess shorts, opposition, king and pawn endgame, stalemate, chess endgames, chess tips, chess for beginners",
+  "ig": "White is a pawn up here. Is it a win, or just a draw? Would you have known?\n\n#chess #endgame #opposition #chessendgames #chesstips"
+ },
+ "FSH2": {
+  "title": "Should White take this knight? #shorts",
+  "desc": "The Fishing Pole: 1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Ng4 5.h3 h5. If White takes the knight with 6.hxg4, the h-file opens: 6...hxg4 7.Ne1 Qh4 8.f3 g3, and mate on h2 can no longer be stopped. So no, leave the knight alone: it is the bait.\n\nWould you have taken it?\n\n#chess #chesstraps #chessopenings",
+  "tags": "chess, chess shorts, fishing pole trap, ruy lopez, berlin defense, chess traps, checkmate, h-file attack",
+  "ig": "White can take this knight for a pawn. Should he? Would you have taken it?\n\n#chess #chesstraps #chessopenings #checkmate #chesstips"
+ },
+ "CST2": {
+  "title": "Your rook is attacked. Can you still castle? #shorts",
+  "desc": "Yes. Castling only looks at the king: no castling out of check, through an attacked square or into check. The rook may be attacked, and on the queenside it may even cross an attacked square (b1 or b8). A king that was checked earlier but never moved can still castle.\n\nDid you know all of these?\n\n#chess #chessrules #castling",
+  "tags": "chess, chess shorts, castling rules, chess rules, castling, king safety, chess for beginners, chess facts",
+  "ig": "The black bishop is attacking your rook. Can you still castle? Did you know all of these?\n\n#chess #chessrules #castling #chessforbeginners #chessfacts"
+ },
+ "WMIL": {
+  "title": "He left his queen hanging, then the windmill started #shorts",
+  "desc": "Carlos Torre vs Emanuel Lasker, Moscow 1925: 25.Bf6!! Qxh5 26.Rxg7+ Kh8 27.Rxf7+ Kg8 28.Rg7+ Kh8 29.Rxb7+ Kg8 30.Rg7+ Kh8 31.Rg5+ Kh7 32.Rxh5, and Torre went on to win. The rook and the bishop take turns giving check: a windmill.\n\nDid you know this game?\n\n#chess #windmill #chesshistory",
+  "tags": "chess, chess shorts, windmill, torre vs lasker, moscow 1925, discovered check, chess history, famous chess games",
+  "ig": "Torre left his queen hanging against the former world champion Lasker, then his rook went on a rampage. Moscow, 1925. Did you know this game?\n\n#chess #windmill #chesshistory #chesstactics #famouschessgames"
+ }
+}
