@@ -27,3 +27,4 @@ One reel every 2 hours, Dubai time. Already live: GPRP 19:50, RETT ~20:45, JKX 2
 | 17-26 | MAHA NRDR GRSH CAPA SHTJ ANDR PROG BERO POCK RACE | set6b/ | every 2 h from 07:50 |
 
 Before each post: check the .in grid, skip a reel that is already live (never post twice).
+| 27-36 | CSTR CSKM M75R QMTN TKNM FFRK SKWR PINN KTUR Q8PZ | set7/ | every 2 h after set6b |
