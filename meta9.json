@@ -1,0 +1,80 @@
+{
+ "STAF": {
+  "title": "He took the queen and got mated #shorts",
+  "desc": "The Stafford Gambit trap: 1.e4 e5 2.Nf3 Nf6 3.Nxe5 Nc6 4.Nxc6 dxc6 5.d3 Bc5 6.Bg5? Nxe4! 7.Bxd8 Bxf2+ 8.Ke2 Bg4#. Black ignores the pin, gives up the queen and mates with a bishop, a bishop and a knight.\n\nWould you have grabbed the queen?\n\n#chess #staffordgambit #chesstraps",
+  "tags": "chess, chess shorts, stafford gambit, petrov defense, chess traps, queen sacrifice, checkmate, chess openings",
+  "ig": "White grabs the queen, and three minor pieces give mate. Would you have grabbed the queen?\n\n#chess #staffordgambit #chesstraps #checkmate #queensacrifice"
+ },
+ "RETI": {
+  "title": "This king is too far away, and still he saves the game #shorts",
+  "desc": "Richard Réti's study from 1921: white king h8, pawn c6; black king a6, pawn h5. 1.Kg7! h4 2.Kf6: walking along the diagonal, the king gets closer to both pawns at once. If Black takes on c6, the king catches the h-pawn; if Black runs, the white pawn queens too. A draw.\n\nWould you have found Kg7?\n\n#chess #endgame #chessstudy",
+  "tags": "chess, chess shorts, reti study, endgame study, king and pawn, pawn race, chess endgames, chess history",
+  "ig": "A king on the diagonal is as fast as a king going straight. Would you have found Kg7?\n\n#chess #endgame #chessstudy #chessendgames #chesstips"
+ },
+ "ENGL": {
+  "title": "Black's queen mates White all by herself #shorts",
+  "desc": "The Englund Gambit trap: 1.d4 e5 2.dxe5 Nc6 3.Nf3 Qe7 4.Bf4 Qb4+ 5.Bd2 Qxb2 6.Bc3 Bb4 7.Qd2 Bxc3 8.Qxc3 Qc1#. The queen takes on b2, and when White grabs the bishop, she mates on c1.\n\nHave you ever fallen for this?\n\n#chess #englundgambit #chesstraps",
+  "tags": "chess, chess shorts, englund gambit, chess traps, chess openings, queen checkmate, d4 openings, chess for beginners",
+  "ig": "One queen, eight moves, checkmate on c1. Have you ever fallen for this?\n\n#chess #englundgambit #chesstraps #checkmate #chesstips"
+ },
+ "LUCN": {
+  "title": "The most famous endgame trick: building a bridge #shorts",
+  "desc": "The Lucena position: 1.Rd4! Rc1 2.Ka7 Ra1+ 3.Kb6 Rb1+ 4.Kc6 Rc1+ 5.Kb5 Rb1+ 6.Rb4, and the checks are over: the pawn queens. The rook on the fourth row blocks the last check. This is called building a bridge.\n\nDid you know this technique?\n\n#chess #endgame #rookendgame",
+  "tags": "chess, chess shorts, lucena position, rook endgame, building a bridge, chess endgames, chess technique, chess tips",
+  "ig": "Rook to the fourth row, king out, and the rook blocks the last check. Did you know this technique?\n\n#chess #endgame #rookendgame #chessendgames #chesstips"
+ },
+ "SIBR": {
+  "title": "One knight move wins the queen or mates #shorts",
+  "desc": "The Siberian trap in the Smith-Morra Gambit: after 9.h3? Black plays 9...Nd4! If 10.Nxd4, then 10...Qh2#. If the white queen runs, Black still mates in two, so White has to give up the queen.\n\nWould you have seen Nd4?\n\n#chess #sicilian #chesstraps",
+  "tags": "chess, chess shorts, siberian trap, smith-morra gambit, sicilian defense, chess traps, checkmate, chess tactics",
+  "ig": "Nd4 attacks the queen, and taking the knight allows mate on h2. Would you have seen Nd4?\n\n#chess #sicilian #chesstraps #chesstactics #checkmate"
+ },
+ "FLAG": {
+  "title": "Your clock hits zero, and it can still be a draw #shorts",
+  "desc": "Under FIDE rules, running out of time loses, unless the opponent cannot checkmate by any series of legal moves. A king and a knight can never mate a lone king, so that is a draw. But add one pawn for you, and a mate becomes possible (the pawn can block your own king), so the timeout loses.\n\nDid you know an extra pawn can lose you the game on time?\n\n#chess #chessrules #chessfacts",
+  "tags": "chess, chess shorts, flag rule, insufficient material, chess rules, time control, knight checkmate, chess facts",
+  "ig": "Out of time against a king and a knight: a draw. Add one pawn for you, and you lose. Did you know an extra pawn can lose you the game on time?\n\n#chess #chessrules #chessfacts #blitz #chesstips"
+ },
+ "GRKG": {
+  "title": "A 400-year-old bishop sacrifice that still works #shorts",
+  "desc": "The Greek gift, from a game Gioachino Greco wrote down in the early 1600s: 7.Bxh7+ Kxh7 8.Ng5+ Bxg5 9.hxg5+ (the rook on h1 gives check) Kg6 10.Qh5+ Kf5 11.Qh3+ Ke4 12.Qd3#, mate in the middle of the board.\n\nWould you have taken the bishop?\n\n#chess #greekgift #chesshistory",
+  "tags": "chess, chess shorts, greek gift, bishop sacrifice, gioachino greco, chess history, king hunt, chess tactics",
+  "ig": "Bxh7+ and the king is chased all the way to e4. Would you have taken the bishop?\n\n#chess #greekgift #chesshistory #chesstactics #checkmate"
+ },
+ "BNMT": {
+  "title": "The hardest basic checkmate #shorts",
+  "desc": "Bishop and knight against a lone king. You can only force mate in a corner of the bishop's colour, so a king in the other corner has to be pushed along the edge. With best play it can take up to 33 moves, and the fifty-move rule still applies.\n\nCan you do this mate?\n\n#chess #endgame #checkmate",
+  "tags": "chess, chess shorts, bishop and knight checkmate, endgame, chess endgames, checkmate, fifty-move rule, chess technique",
+  "ig": "Only in a corner of the bishop's colour. Up to 33 moves, with the fifty-move rule ticking. Can you do this mate?\n\n#chess #endgame #checkmate #chessendgames #chesstips"
+ },
+ "NOAH": {
+  "title": "This bishop gets trapped by three pawns #shorts",
+  "desc": "The Noah's Ark trap in the Ruy Lopez: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.d4 b5 6.Bb3 Nxd4 7.Nxd4 exd4 8.Qxd4? c5 9.Qd5 Be6 10.Qc6+ Bd7 11.Qd5 c4, and the bishop on b3 has no square left.\n\nHave you ever lost a bishop like this?\n\n#chess #ruylopez #chesstraps",
+  "tags": "chess, chess shorts, noah's ark trap, ruy lopez, chess traps, chess openings, trapped bishop, chess for beginners",
+  "ig": "Three black pawns and the bishop on b3 has nowhere to go. Have you ever lost a bishop like this?\n\n#chess #ruylopez #chesstraps #chessopenings #chesstips"
+ },
+ "BODN": {
+  "title": "Two bishops mate after a queen sacrifice #shorts",
+  "desc": "Boden's mate, from Schulder vs Boden, London 1853: both kings castled queenside, then 14...Qxc3+ 15.bxc3 Ba3#. One bishop gives check, the other covers the escape squares.\n\nHave you ever mated with two bishops?\n\n#chess #checkmate #queensacrifice",
+  "tags": "chess, chess shorts, boden's mate, checkmate patterns, queen sacrifice, chess history, two bishops, chess tactics",
+  "ig": "The queen takes on c3, the pawn takes her, and two bishops give mate. London, 1853. Have you ever mated with two bishops?\n\n#chess #checkmate #queensacrifice #chesshistory #chesstactics"
+ },
+ "ELPH": {
+  "title": "Black gives up the queen and still wins a piece #shorts",
+  "desc": "The Elephant trap in the Queen's Gambit Declined: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.cxd5 exd5 6.Nxd5? Nxd5! 7.Bxd8 Bb4+ 8.Qd2 Bxd2+ 9.Kxd2 Kxd8, and Black is a piece up for a pawn. The knight on f6 only looked pinned.\n\nDid you know this one?\n\n#chess #queensgambit #chesstraps",
+  "tags": "chess, chess shorts, elephant trap, queen's gambit declined, chess traps, chess openings, pin, chess for beginners",
+  "ig": "The knight looks pinned to the queen. It is not, and Black ends up a piece ahead. Did you know this one?\n\n#chess #queensgambit #chesstraps #chessopenings #chesstips"
+ },
+ "FRLV": {
+  "title": "The king gets dragged into the middle of the board #shorts",
+  "desc": "The Fried Liver Attack: 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nxd5? 6.Nxf7 Kxf7 7.Qf3+ Ke6 8.Nc3, and the black king is stuck in the middle. The usual way to avoid it is 5...Na5 instead of taking on d5.\n\nDo you play 5...Na5 here?\n\n#chess #friedliver #chessopenings",
+  "tags": "chess, chess shorts, fried liver attack, two knights defense, italian game, chess openings, chess traps, king safety",
+  "ig": "One knight sacrifice and the black king is stuck in the middle. The fix is one move: 5...Na5. Do you play 5...Na5 here?\n\n#chess #friedliver #chessopenings #chesstraps #chesstips"
+ },
+ "ANAS": {
+  "title": "Anastasia's mate: a knight and a rook finish it #shorts",
+  "desc": "Anastasia's mate: 1.Ne7+ Kh8 2.Qxh7+ Kxh7 3.Rh3#. The knight on e7 covers g8 and g6, the rook mates on the h-file. The pattern is named after Wilhelm Heinse's 1803 novel Anastasia und das Schachspiel.\n\nDid you know where the name comes from?\n\n#chess #checkmate #queensacrifice",
+  "tags": "chess, chess shorts, anastasia's mate, checkmate patterns, queen sacrifice, chess tactics, knight and rook mate, chess history",
+  "ig": "The queen goes on h7, the rook mates on the h-file. Did you know where the name comes from?\n\n#chess #checkmate #queensacrifice #chesstactics #chesspatterns"
+ }
+}
