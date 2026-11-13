@@ -1,0 +1,62 @@
+{
+ "CSTR": {
+  "title": "His rook is under attack. Can White still castle? #shorts",
+  "desc": "To castle, the king and the rook must not have moved, nothing may stand between them, and the king can't castle out of check, through check or into check. No rule protects the rook: it may be attacked, and on the long side it may even pass over an attacked square (b1 here). So yes, castling long is legal here. Only the king's squares count.\n\nDid you know this rule?\n\n#chess #chessrules #chesstips",
+  "tags": "chess, chess shorts, castling rules, chess rules, castling, chess tips, chess quiz",
+  "ig": "White's rook on a1 is under attack. Can he still castle? Did you know this rule?\n\n#chess #chessrules #chesstips #chessquiz #castling"
+ },
+ "CSKM": {
+  "title": "The king went to f1 and came back. Can White still castle? #shorts",
+  "desc": "The board looks exactly like before: nothing is attacked and the squares between the king and the rook are empty. But castling depends on what happened in the game, not only on the position. Once the king has moved, even one square and back, castling is gone for the rest of the game. And a rook that has moved can't castle again either.\n\nWould you have known?\n\n#chess #chessrules #chesstips",
+  "tags": "chess, chess shorts, castling rules, chess rules, king moved castling, chess tips, chess quiz",
+  "ig": "The white king went to f1 and came back to e1. Can he still castle? Would you have known?\n\n#chess #chessrules #chesstips #chessquiz #castling"
+ },
+ "M75R": {
+  "title": "Queen against rook, and the arbiter stops the game. Why? #shorts",
+  "desc": "The 50-move rule: after fifty moves with no capture and no pawn move, either player can claim a draw, but nobody has to. Since 2014 the FIDE Laws of Chess add a hard limit: after seventy-five moves by each side with no capture and no pawn move, the game is drawn automatically, unless the last move is checkmate.\n\nDid you know about the 75-move rule?\n\n#chess #chessrules #fide",
+  "tags": "chess, chess shorts, 75 move rule, 50 move rule, chess rules, fide rules, draw, chess quiz",
+  "ig": "White has a queen against a rook, and the arbiter stops the game. Why? Did you know about the 75-move rule?\n\n#chess #chessrules #fide #chesstips #chessquiz"
+ },
+ "QMTN": {
+  "title": "King and queen against a lone king. How many moves to mate? #shorts",
+  "desc": "The queen cuts the board into smaller and smaller boxes, then the king walks up to help, because the queen can't mate alone. Computers have checked every possible position: with best play it never takes more than ten moves. With a rook instead of the queen, sixteen.\n\nHow fast can you do it?\n\n#chess #chessendgame #checkmate",
+  "tags": "chess, chess shorts, queen checkmate, king and queen vs king, basic checkmates, chess endgame, chess tips",
+  "ig": "King and queen against a lone king. How many moves does checkmate take? How fast can you do it?\n\n#chess #chessendgame #checkmate #chesstips #chesstraining"
+ },
+ "TKNM": {
+  "title": "Two knights against a lone king. Can White force mate? #shorts",
+  "desc": "Checkmate positions with two knights do exist: if the black king steps into the corner, the knight jumps in and it's mate. But the lone king doesn't have to go there. With careful play it always finds a safe square, so the mate can never be forced: two knights alone can't force checkmate, and the game is a draw.\n\nDid you know this one?\n\n#chess #chessendgame #chessrules",
+  "tags": "chess, chess shorts, two knights checkmate, two knights endgame, chess endgame, chess rules, draw",
+  "ig": "Two knights and a king against a lone king. Can White force checkmate? Did you know this one?\n\n#chess #chessendgame #chessrules #chesstips #chessquiz"
+ },
+ "FFRK": {
+  "title": "One knight attacks king, queen and rook. What is this called? #shorts",
+  "desc": "When one piece attacks two pieces at once, it's a fork. A knight's jump can't be blocked, so every piece it hits is in danger. When it hits the king, the queen and a rook together, players call it a family fork. Here the king has to get out of check, and the knight takes the queen.\n\nEver landed one?\n\n#chess #chesstactics #knightfork",
+  "tags": "chess, chess shorts, family fork, knight fork, chess tactics, fork, chess tips",
+  "ig": "One knight attacks the king, the queen and a rook at once. What is this called? Ever landed one?\n\n#chess #chesstactics #knightfork #chesstips #chessquiz"
+ },
+ "SKWR": {
+  "title": "King and queen on the same diagonal. Why is that dangerous? #shorts",
+  "desc": "The bishop gives check along the diagonal, the king has to step out of the way, and the queen behind it is lost. This is a skewer: like a pin, but the more valuable piece stands in front.\n\nDo you watch your diagonals?\n\n#chess #chesstactics #skewer",
+  "tags": "chess, chess shorts, skewer, chess tactics, bishop skewer, pin vs skewer, chess tips",
+  "ig": "The black king and queen stand on the same diagonal. Why is that so dangerous? Do you watch your diagonals?\n\n#chess #chesstactics #skewer #chesstips #chessquiz"
+ },
+ "PINN": {
+  "title": "This knight can't move at all. Why? #shorts",
+  "desc": "The white bishop on b5 looks straight at the black king on e8, and the only piece in between is the knight on d7. If the knight moved, its own king would be in check, and that is illegal. This is an absolute pin: the knight is frozen until the line is blocked or the bishop is gone, and White can pile up on it.\n\nSpotted it?\n\n#chess #chesstactics #chessrules",
+  "tags": "chess, chess shorts, absolute pin, pin, chess tactics, chess rules, chess tips",
+  "ig": "Black's knight on d7 can't move at all. Why? Spotted it?\n\n#chess #chesstactics #chessrules #chesstips #chessquiz"
+ },
+ "KTUR": {
+  "title": "Can a knight visit every square of the board exactly once? #shorts",
+  "desc": "The knight's tour is one of the oldest puzzles in chess. The knight jumps in an L, so it switches between light and dark squares on every move. Leonhard Euler studied it in 1759. There are trillions of tours, and some even end one jump away from the start. Sixty-four squares, sixty-three jumps, no square twice.\n\nCould you find one?\n\n#chess #chesspuzzle #knightstour",
+  "tags": "chess, chess shorts, knight's tour, chess puzzle, euler, chess math, knight moves",
+  "ig": "Can a knight visit every square of the board exactly once? Could you find one?\n\n#chess #chesspuzzle #knightstour #math #chessquiz"
+ },
+ "Q8PZ": {
+  "title": "Eight queens, none attacking another. Is it possible? #shorts",
+  "desc": "The eight queens puzzle, first published in 1848. Every queen needs her own row, her own column and her own diagonals, and most tries get stuck at six or seven queens. Computers have counted every answer: there are exactly 92. Here is one of them: a1, b5, c8, d6, e3, f7, g2, h4.\n\nCan you find another one?\n\n#chess #chesspuzzle #eightqueens",
+  "tags": "chess, chess shorts, eight queens puzzle, 8 queens, chess puzzle, chess math, queens",
+  "ig": "Can you put eight queens on the board so that none of them attacks another? Can you find another one?\n\n#chess #chesspuzzle #eightqueens #math #chessquiz"
+ }
+}
