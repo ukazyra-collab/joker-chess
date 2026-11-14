@@ -1,0 +1,62 @@
+{
+ "ST2Q": {
+  "title": "Two queens up, and it was a draw #shorts",
+  "desc": "The black king is alone in the corner. White moves a queen to b6, and Black has no legal move left. But the king isn't in check, so it's stalemate, and stalemate is a draw. Queen to b7 (guarded by the other queen) was checkmate.\n\nHave you ever stalemated a won game?\n\n#chess #stalemate #chessrules",
+  "tags": "chess, chess shorts, stalemate, chess rules, two queens, chess mistakes, chess tips",
+  "ig": "Two queens up, and it's a draw. Have you ever stalemated a won game?\n\n#chess #stalemate #chessrules #chessforbeginners #checkmate"
+ },
+ "KPST": {
+  "title": "The pawn became a queen, and it was a draw #shorts",
+  "desc": "With the new queen on f8, the black king on h7 has no square to go to, and he isn't in check: stalemate, a draw. Make a rook instead, and the king gets exactly one square, h6. Then the rook mates on h8.\n\nWould you have made a rook?\n\n#chess #underpromotion #stalemate",
+  "tags": "chess, chess shorts, underpromotion, stalemate, chess rules, pawn promotion, chess endgame",
+  "ig": "The pawn becomes a queen, and the game is a draw. Would you have made a rook?\n\n#chess #underpromotion #stalemate #chessrules #chessendgame"
+ },
+ "RP3X": {
+  "title": "Same position three times, not in a row: still a draw #shorts",
+  "desc": "Many players think the moves have to repeat back and forth. They don't. The rooks move away and come back, then the kings do the same. What counts is the position: the same pieces on the same squares, with the same player to move. The third time it appears, either player can claim a draw.\n\nDid you know this rule?\n\n#chess #chessrules #threefoldrepetition",
+  "tags": "chess, chess shorts, threefold repetition, draw by repetition, chess rules, chess tips, fide rules",
+  "ig": "The same position three times, not in a row, and the game is a draw. Did you know this rule?\n\n#chess #chessrules #threefoldrepetition #chesstips #draw"
+ },
+ "PRPR": {
+  "title": "A whole rook down, and White still saved the game #shorts",
+  "desc": "Black is threatening mate on g2, so White can't waste a single move. The queen checks from e8, the king has to step to h7; she checks from h5, he has to go back to g8. Black never gets a free move to play his mate. Same position three times: a draw by perpetual check.\n\nHave you ever saved a game like this?\n\n#chess #perpetualcheck #chessrules",
+  "tags": "chess, chess shorts, perpetual check, draw by repetition, chess tactics, chess rules, swindle",
+  "ig": "A whole rook down, and White still saves the game. Have you ever saved a game like this?\n\n#chess #perpetualcheck #chessrules #chesstactics #draw"
+ },
+ "DEAD": {
+  "title": "Sixteen pawns on the board, and the game is already a draw #shorts",
+  "desc": "Every pawn is blocked, and none of them can capture. The kings can't get through either: every gap in the wall is guarded by a pawn. Nobody can ever give checkmate, so the rules call it a dead position, and the game ends in a draw right there. Nobody has to offer it.\n\nDid you know about dead positions?\n\n#chess #chessrules #deadposition",
+  "tags": "chess, chess shorts, dead position, chess rules, draw, fide rules, blocked pawns",
+  "ig": "Sixteen pawns on the board, and the game is already a draw. Did you know about dead positions?\n\n#chess #chessrules #deadposition #chessfacts #draw"
+ },
+ "KBDR": {
+  "title": "A whole bishop up, and the game is over: draw #shorts",
+  "desc": "Black's king just took the last pawn. A king and a bishop can never checkmate a lone king, whatever the other side does, so there's nothing left to play for and the game ends on the spot. To force mate you need at least a rook, two bishops, or a bishop and a knight.\n\nDid you know this rule?\n\n#chess #chessrules #insufficientmaterial",
+  "tags": "chess, chess shorts, insufficient material, chess rules, draw, king and bishop, chess endgame",
+  "ig": "A whole bishop up, and the game is over. Draw. Did you know this rule?\n\n#chess #chessrules #insufficientmaterial #chessendgame #draw"
+ },
+ "PNCK": {
+  "title": "This knight is pinned, and it still gives check #shorts",
+  "desc": "The white bishop was checking the black king, so Black blocked with the knight. Now the knight can't move, or its own king would be in check. But it still attacks g4, where the white king stands, and a pinned piece still gives check. White has to deal with it: here he takes the knight with the bishop, and that's check too.\n\nDid you know a pinned piece still gives check?\n\n#chess #chessrules #chesstactics",
+  "tags": "chess, chess shorts, pin, pinned piece, check, chess rules, chess tactics",
+  "ig": "This knight is pinned, and it's still giving check. Did you know a pinned piece still gives check?\n\n#chess #chessrules #chesstactics #pin #chesstips"
+ },
+ "ILMT": {
+  "title": "Rook to d8 looks like checkmate. It is an illegal move #shorts",
+  "desc": "The rook was the only thing between the bishop on a8 and the white king on h1. Move it, and White's own king is in check. You can never leave your own king in check, not even to give mate, so the move doesn't count and has to be taken back.\n\nWould you have spotted the bishop?\n\n#chess #chessrules #illegalmove",
+  "tags": "chess, chess shorts, illegal move, pin, back rank mate, chess rules, chess tips",
+  "ig": "Rook to d8 looks like checkmate. It is an illegal move. Would you have spotted the bishop?\n\n#chess #chessrules #illegalmove #checkmate #chesstips"
+ },
+ "CSMT": {
+  "title": "Can you give checkmate by castling? Yes #shorts",
+  "desc": "Edward Lasker vs George Alan Thomas, London 1912. Lasker gave up his queen with 11.Qxh7+ and chased the black king all the way to g1. His own king and rook had never moved, so he could still castle: 18.O-O-O puts the rook on d1 with check along the first row, and every square around the black king is covered. Lasker mated with 18.Kd2 instead, but castling would have mated too.\n\nDid you know castling can give mate?\n\n#chess #castling #checkmate",
+  "tags": "chess, chess shorts, castling checkmate, edward lasker, chess history, king hunt, chess rules",
+  "ig": "Can you give checkmate by castling? In 1912, Edward Lasker could have. Did you know castling can give mate?\n\n#chess #castling #checkmate #chesshistory #chessrules"
+ },
+ "EPMT": {
+  "title": "Black has one legal move, and it gets him mated by en passant #shorts",
+  "desc": "The bishop on b4 checks the black king along the diagonal. The only way out is to block it with the pawn jumping two squares to c5. But the pawn lands right next to the white pawn: White takes it en passant, the diagonal opens again, and the bishop gives checkmate.\n\nHave you ever seen mate by en passant?\n\n#chess #enpassant #chessrules",
+  "tags": "chess, chess shorts, en passant, en passant checkmate, chess rules, chess puzzle, checkmate",
+  "ig": "Black has one legal move, and it gets him checkmated by en passant. Have you ever seen mate by en passant?\n\n#chess #enpassant #chessrules #checkmate #chesspuzzle"
+ }
+}
