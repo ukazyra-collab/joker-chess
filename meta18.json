@@ -1,0 +1,62 @@
+{
+ "EPCK": {
+  "title": "A pawn gives check, and the only way out is en passant #shorts",
+  "desc": "Black's pawn jumps from d7 to d5 and checks the white king on e4. The king can't take it, because the pawn is protected, and every square around the king is covered. But the pawn jumped past the white pawn on e5, so White takes it en passant. En passant is a normal capture, so it can get you out of check.\n\nDid you know en passant can get you out of check?\n\n#chess #enpassant #chessrules",
+  "tags": "chess, chess shorts, en passant, check, chess rules, chess puzzle, chess tips",
+  "ig": "A pawn gives check, and the only way out is en passant. Did you know en passant can get you out of check?\n\n#chess #enpassant #chessrules #chesspuzzle #chesstips"
+ },
+ "EPNW": {
+  "title": "He waited one move to take en passant, and now it is illegal #shorts",
+  "desc": "Black's pawn jumps two squares and lands right next to White's pawn. Right then, White could take it en passant. But he plays another move first, Black replies, and the chance is gone: en passant is only allowed on the very next move.\n\nDid you know en passant expires?\n\n#chess #enpassant #chessrules",
+  "tags": "chess, chess shorts, en passant, chess rules, illegal move, chess for beginners, chess tips",
+  "ig": "White waited one move to take en passant, and now it is illegal. Did you know en passant expires?\n\n#chess #enpassant #chessrules #chessforbeginners #chesstips"
+ },
+ "DSRK": {
+  "title": "This rook wants to be taken, and it saves the game #shorts",
+  "desc": "Black is a queen up and about to make another one, and White's king can't move. So the rook checks the black king from the 7th row, again and again. If Black takes it, White has no legal move left: stalemate, a draw. If the king runs, the rook follows him along the row. Even the queen taking it is stalemate.\n\nHave you ever been saved by a crazy rook?\n\n#chess #stalemate #chessrules",
+  "tags": "chess, chess shorts, desperado rook, stalemate, chess swindle, chess rules, perpetual check",
+  "ig": "This rook wants to be taken, and that is how White saves the game. Have you ever been saved by a crazy rook?\n\n#chess #stalemate #chessrules #chesstactics #draw"
+ },
+ "PNST": {
+  "title": "Black still has a knight, and it is stalemate #shorts",
+  "desc": "White's king steps to f7, and the black king has no square left. The knight looks free to move, but it's pinned to its own king by the bishop on c3: moving it would put the king in check, so it's not a legal move. No legal moves and no check: stalemate, a draw.\n\nWould you have counted the knight?\n\n#chess #stalemate #chessrules",
+  "tags": "chess, chess shorts, stalemate, pin, chess rules, chess endgame, chess mistakes",
+  "ig": "Black still has a knight, and it is stalemate. Would you have counted the knight?\n\n#chess #stalemate #chessrules #chessendgame #pin"
+ },
+ "F50M": {
+  "title": "A whole rook up, and the game ends in a draw #shorts",
+  "desc": "White checks and checks but never finds the mate. Fifty moves go by with no capture and no pawn move, and a draw can be claimed. After seventy-five such moves, the game is a draw even if nobody claims it. So when you're winning, you have fifty moves to finish the job.\n\nDid you know the fifty-move rule?\n\n#chess #chessrules #50moverule",
+  "tags": "chess, chess shorts, fifty move rule, 50 move rule, chess rules, rook endgame, fide rules",
+  "ig": "A whole rook up, and the game ends in a draw. Did you know the fifty-move rule?\n\n#chess #chessrules #50moverule #chessendgame #draw"
+ },
+ "TRBU": {
+  "title": "Whoever has to move here loses the game #shorts",
+  "desc": "Each king guards its own pawn and attacks the other one, so any king move gives up a pawn. And in chess you can't pass: if it's your turn, you have to move. With White to move, his king steps away, Black takes on e4, and his pawn walks all the way down and becomes a queen. With Black to move, it's the other way round. This position is called the trebuchet.\n\nDid you know this one?\n\n#chess #zugzwang #chessendgame",
+  "tags": "chess, chess shorts, zugzwang, trebuchet, pawn endgame, chess rules, king and pawn",
+  "ig": "Whoever has to move here loses the game. Did you know this one?\n\n#chess #zugzwang #chessendgame #chessrules #chesstips"
+ },
+ "Q2QN": {
+  "title": "The queen is still on the board, and he makes a second one #shorts",
+  "desc": "Many players think a pawn can only become a piece that was already captured. That's not the rule: a pawn can become any piece except a king, even a second queen. In theory one side could have nine queens at once, and if there's no spare queen in the set, a tournament arbiter will bring you one.\n\nDid you know you can have two queens?\n\n#chess #chessrules #promotion",
+  "tags": "chess, chess shorts, pawn promotion, two queens, chess rules, chess myths, chess for beginners",
+  "ig": "White's queen is still on the board, and he makes a second one. Did you know you can have two queens?\n\n#chess #chessrules #promotion #chessforbeginners #checkmate"
+ },
+ "UNDN": {
+  "title": "Make a queen and get mated. Make a knight and win #shorts",
+  "desc": "Black is threatening mate with the queen on d1. If the pawn becomes a queen, Black checks on d1, and it's mate a move later. But a knight on e8 gives check and attacks the black queen too: Black has to move his king, and the knight takes the queen.\n\nWould you have made a knight?\n\n#chess #underpromotion #chesstactics",
+  "tags": "chess, chess shorts, underpromotion, knight fork, chess tactics, pawn promotion, chess puzzle",
+  "ig": "Make a queen here, and White gets mated. Make a knight, and White wins. Would you have made a knight?\n\n#chess #underpromotion #chesstactics #chesspuzzle #knightfork"
+ },
+ "CSRB": {
+  "title": "The rook is under attack, and he can still castle #shorts",
+  "desc": "Many players think an attacked rook can't castle. It can. The castling rules only care about the king: it can't be in check, and it can't cross or land on an attacked square. The rook can be attacked, and on the long side it can even cross an attacked square, like b1.\n\nDid you know this castling rule?\n\n#chess #castling #chessrules",
+  "tags": "chess, chess shorts, castling rules, castling, chess rules, chess myths, chess for beginners",
+  "ig": "White's rook is under attack, and he can still castle. Did you know this castling rule?\n\n#chess #castling #chessrules #chessforbeginners #chesstips"
+ },
+ "TCHO": {
+  "title": "He touched the knight, so he had to take it, and lost #shorts",
+  "desc": "In a real game, if you touch an opponent's piece on purpose, you have to capture it if you can (touch-move). Here only the rook can take the knight, so the rook leaves the back row, and Black's rook drops to e1: checkmate. Keep your hands off the pieces until you've decided.\n\nDid you know the touch-move rule?\n\n#chess #touchmove #chessrules",
+  "tags": "chess, chess shorts, touch move, chess rules, back rank mate, otb chess, chess tips",
+  "ig": "He touched the knight, so he had to take it, and that lost the game. Did you know the touch-move rule?\n\n#chess #touchmove #chessrules #backrankmate #chesstips"
+ }
+}
