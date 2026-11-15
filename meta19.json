@@ -1,0 +1,65 @@
+{
+ "SCHM": {
+  "title": "Checkmate in four moves, and the one move that stops it #shorts",
+  "desc": "1.e4 e5 2.Qh5 Nc6 3.Bc4. The queen and the bishop both aim at f7, and only the king guards it. If Black now attacks the queen with 3...Nf6, it's 4.Qxf7, checkmate. The fix is 3...g6: the queen has to back off, and if she tries again from f3, the knight comes to f6 and blocks her. It's called Scholar's Mate.\n\nHave you ever lost to this one?\n\n#chess #scholarsmate #chesstraps",
+  "tags": "chess, chess shorts, scholar's mate, four move checkmate, chess traps, chess for beginners, chess openings",
+  "ig": "Four moves, and it's checkmate. One pawn move stops it. Have you ever lost to this one?\n\n#chess #scholarsmate #chesstraps #chessforbeginners #checkmate"
+ },
+ "ICBM": {
+  "title": "This gambit costs one pawn and wins the queen on move 8 #shorts",
+  "desc": "1.Nf3 d5 2.e4 dxe4 3.Ng5 Nf6 4.d3 exd3 5.Bxd3. Now 5...h6 looks natural, and it's the mistake: 6.Nxf7 Kxf7 7.Bg6+ Kxg6 8.Qxd8. It's the Tennison Gambit, and players call this line the intercontinental ballistic missile. Black is fine if he doesn't play h6.\n\nWould you have pushed the h pawn?\n\n#chess #tennisongambit #chesstraps",
+  "tags": "chess, chess shorts, tennison gambit, icbm gambit, chess traps, chess openings, queen trap",
+  "ig": "This gambit costs one pawn, and it wins the queen on move eight. Would you have pushed the h pawn?\n\n#chess #tennisongambit #chesstraps #chessopenings #gambit"
+ },
+ "BSHG": {
+  "title": "This pawn looks free. Take it and you can be mated on move 7 #shorts",
+  "desc": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Nd4. The pawn on e5 looks free, but after 4.Nxe5 Qg5 the greedy 5.Nxf7 loses to 5...Qxg2 6.Rf1 Qxe4+ 7.Be2 Nf3, checkmate. The simple answer on move four is to take the knight on d4 instead. It's called the Blackburne Shilling trap.\n\nWould you have taken the pawn?\n\n#chess #chesstraps #chessopenings",
+  "tags": "chess, chess shorts, blackburne shilling gambit, chess traps, italian game, chess openings, smothered mate",
+  "ig": "This pawn looks free. White takes it, and he's mated on move seven. Would you have taken the pawn?\n\n#chess #chesstraps #chessopenings #italiangame #checkmate"
+ },
+ "LGL2": {
+  "title": "He let his queen go on move 5. Two moves later it was checkmate #shorts",
+  "desc": "1.e4 e5 2.Nf3 d6 3.Bc4 Bg4 4.Nc3 g6. The knight on f3 is pinned to the queen, and White moves it anyway: 5.Nxe5. If Black grabs the queen with 5...Bxd1, it's 6.Bxf7+ Ke7 7.Nd5, checkmate with three minor pieces. It's called Légal's Mate, after a French master from the 1700s.\n\nWould you have taken the queen?\n\n#chess #legalsmate #chesstraps",
+  "tags": "chess, chess shorts, legal's mate, queen sacrifice, chess traps, chess openings, checkmate patterns",
+  "ig": "White lets his queen go on move five. Two moves later, it's checkmate. Would you have taken the queen?\n\n#chess #legalsmate #chesstraps #queensacrifice #checkmate"
+ },
+ "STF2": {
+  "title": "Black gives away a pawn on move 3. Five moves later it is checkmate #shorts",
+  "desc": "1.e4 e5 2.Nf3 Nf6 3.Nxe5 Nc6 4.Nxc6 dxc6 5.d3 Bc5. Now 6.Bg5 pins the knight to the queen, and it's the mistake: 6...Nxe4 7.Bxd8 Bxf2+ 8.Ke2 Bg4, checkmate. It's the Stafford Gambit. White keeps the extra pawn with a calm move like 6.Be2.\n\nHave you tried the Stafford Gambit?\n\n#chess #staffordgambit #chesstraps",
+  "tags": "chess, chess shorts, stafford gambit, chess traps, petrov defense, chess openings, queen sacrifice",
+  "ig": "Black gives away a pawn on move three. Five moves later, it's checkmate. Have you tried the Stafford Gambit?\n\n#chess #staffordgambit #chesstraps #chessopenings #checkmate"
+ },
+ "M1UP": {
+  "title": "Mate in one, and White only has a pawn #shorts",
+  "desc": "White to move. Promoting to a queen is not even check. The pawn becomes a knight: checkmate.\n\nDid you find it in time?\n\n#chess #matein1 #chesspuzzle",
+  "tags": "chess, chess shorts, mate in one, chess puzzle, underpromotion, chess tactics, checkmate",
+  "ig": "Mate in one, and White only has a pawn. Did you find it in time?\n\n#chess #matein1 #chesspuzzle #underpromotion #checkmate"
+ },
+ "M1EP": {
+  "title": "Mate in one, and it looks like an illegal move #shorts",
+  "desc": "Black has just pushed his pawn two squares. White to move: the pawn takes en passant, the rook's file opens, and it's checkmate.\n\nDid you see it coming?\n\n#chess #matein1 #chesspuzzle",
+  "tags": "chess, chess shorts, mate in one, chess puzzle, en passant, chess rules, checkmate",
+  "ig": "Mate in one, and it looks like an illegal move. Did you see it coming?\n\n#chess #matein1 #chesspuzzle #enpassant #checkmate"
+ },
+ "M1CS": {
+  "title": "Mate in one. White has to move two pieces at once #shorts",
+  "desc": "White to move. Rook to f1 is check, but the king slips out to g2. So White castles: the rook checks from f1, the king on g1 takes g2 away, and it's checkmate.\n\nDid you find it in time?\n\n#chess #matein1 #chesspuzzle",
+  "tags": "chess, chess shorts, mate in one, chess puzzle, castling, chess rules, checkmate",
+  "ig": "Mate in one, but White has to move two pieces at once. Did you find it in time?\n\n#chess #matein1 #chesspuzzle #castling #checkmate"
+ },
+ "GUP2": {
+  "title": "Don't make a queen here #shorts",
+  "desc": "If this pawn becomes a queen, Black checks on the back row, and it's mate next move. So the pawn becomes a knight instead, with check. It hits the king and the queen at the same time: the king steps away, and the knight takes the queen.\n\nHave you ever promoted to a knight?\n\n#chess #underpromotion #chesstactics",
+  "tags": "chess, chess shorts, underpromotion, knight fork, pawn promotion, chess tactics, chess tips",
+  "ig": "Don't make a queen here. Have you ever promoted to a knight?\n\n#chess #underpromotion #chesstactics #chesstips #knightfork",
+  "platforms": [
+   "instagram"
+  ]
+ },
+ "GAL2": {
+  "title": "After five moves each there are 69 trillion possible chess games #shorts",
+  "desc": "One move each: 400 possible games. Two moves each: 197,281. Three: 119,060,324. Four: 84,998,978,956. Five moves each: 69,352,859,712,417. And that's just the opening.\n\nDid you expect that many?\n\n#chess #chessfacts #didyouknow",
+  "tags": "chess, chess shorts, chess facts, how many chess games, chess math, shannon number, did you know",
+  "ig": "After five moves each, there are more than 69 trillion possible chess games. Did you expect that many?\n\n#chess #chessfacts #didyouknow #math #chesslovers"
+ }
+}
