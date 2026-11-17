@@ -1,0 +1,72 @@
+{
+ "PCP2": {
+  "title": "Copy your opponent and lose your queen on move 6 #shorts",
+  "desc": "1.e4 e5 2.Nf3 Nf6 3.Nxe5 Nxe4 4.Qe2. Black pulls the knight back with 4...Nf6, and it's the mistake: 5.Nc6+ is a discovered check from the queen on e2, and after the block 6.Nxd8 takes the black queen. It's the Petrov Defense. Black plays 3...d6 first.\n\nWould you have copied?\n\n#chess #petrovdefense #chesstraps",
+  "tags": "chess, chess shorts, petrov defense, copycat trap, chess traps, chess openings, discovered check",
+  "ig": "Black copies White's moves, and he loses his queen on move six. Would you have copied?\n\n#chess #petrovdefense #chesstraps #chessopenings #discoveredcheck",
+  "replaces": "PCOP"
+ },
+ "DAM2": {
+  "title": "Protect your pawn with f6 and lose a rook on move 6 #shorts",
+  "desc": "1.e4 e5 2.Nf3 f6? 3.Nxe5 fxe5? 4.Qh5+ g6 5.Qxe5+ Qe7 6.Qxh8. The queen checks twice and lands in the corner. It's the Damiano Defense, and the mistake was 2...f6.\n\nHave you ever played f6 here?\n\n#chess #damianodefense #chesstraps",
+  "tags": "chess, chess shorts, damiano defense, chess traps, chess openings, chess for beginners, queen fork",
+  "ig": "Black protects his pawn with f6, and he loses a rook on move six. Have you ever played f6 here?\n\n#chess #damianodefense #chesstraps #chessopenings #chessforbeginners",
+  "replaces": "DAMI"
+ },
+ "QGA2": {
+  "title": "Keep the extra pawn and lose a knight on move 7 #shorts",
+  "desc": "1.d4 d5 2.c4 dxc4 3.e3 b5? 4.a4 c6 5.axb5 cxb5?? 6.Qf3. The queen hits the rook on a8 along the open diagonal; 6...Nc6 7.Qxc6+ wins a whole knight. It's the Queen's Gambit Accepted: Black should give the pawn back.\n\nDid you know this one?\n\n#chess #queensgambit #chesstraps",
+  "tags": "chess, chess shorts, queen's gambit accepted, chess traps, chess openings, queen's gambit, long diagonal",
+  "ig": "Black keeps an extra pawn, and it costs him a whole knight on move seven. Did you know this one?\n\n#chess #queensgambit #chesstraps #chessopenings #chesstips",
+  "replaces": "QGAB"
+ },
+ "LTR2": {
+  "title": "A pawn becomes a knight on move 7, and Black wins the queen #shorts",
+  "desc": "1.d4 d5 2.c4 e5 3.dxe5 d4 4.e3? Bb4+ 5.Bd2 dxe3 6.Bxb4?? exf2+ 7.Ke2 fxg1=N+ 8.Rxg1 Bg4+ 9.Ke1 Bxd1. The pawn becomes a knight with check, and the bishop skewers the queen behind the king. It's the Lasker trap in the Albin Countergambit.\n\nHave you ever made a knight?\n\n#chess #laskertrap #albincountergambit",
+  "tags": "chess, chess shorts, lasker trap, albin countergambit, underpromotion, chess traps, chess openings",
+  "ig": "Black's pawn becomes a knight on move seven, and two moves later he wins the queen. Have you ever made a knight?\n\n#chess #laskertrap #albincountergambit #underpromotion #chesstraps",
+  "replaces": "LTRP"
+ },
+ "KIE2": {
+  "title": "White wins a bishop on move 8 and it's checkmate on the spot #shorts",
+  "desc": "1.d4 Nf6 2.c4 e5 3.dxe5 Ng4 4.Nf3 Nc6 5.Bf4 Bb4+ 6.Nbd2 Qe7 7.a3 Ngxe5 8.axb4?? Nd3#. The king can't move: his own pieces block every square, and the e2 pawn is pinned. It's the Kieninger trap in the Budapest Gambit.\n\nWould you have grabbed the bishop?\n\n#chess #budapestgambit #chesstraps",
+  "tags": "chess, chess shorts, kieninger trap, budapest gambit, smothered mate, chess traps, chess openings",
+  "ig": "White wins a bishop on move eight, and it's checkmate on the spot. Would you have grabbed the bishop?\n\n#chess #budapestgambit #chesstraps #checkmate #chessopenings",
+  "replaces": "KIEN"
+ },
+ "CKN2": {
+  "title": "Bring out a knight on move 5 and it's checkmate on move 6 #shorts",
+  "desc": "1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Qe2 Ngf6?? 6.Nd6#. The e7 pawn can't take the knight because the queen pins it to the king. It's a famous Caro-Kann trap.\n\nDid you see it coming?\n\n#chess #carokann #chesstraps",
+  "tags": "chess, chess shorts, caro kann, smothered mate, chess traps, chess openings, checkmate in 6",
+  "ig": "Black brings out a knight on move five, and it's checkmate on move six. Did you see it coming?\n\n#chess #carokann #chesstraps #checkmate #smotheredmate",
+  "replaces": "CKNM"
+ },
+ "HAL2": {
+  "title": "Black takes the queen on move 8 and it's checkmate on move 9 #shorts",
+  "desc": "1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Qxf3 Qxd4 6.Be3 Qb4 7.O-O-O Bg4 8.Nb5 Bxf3?? 9.Nxc7#. The rook on d1 covers the d file. It's the Halosar trap in the Blackmar-Diemer Gambit.\n\nWould you have taken the queen?\n\n#chess #halosartrap #queensacrifice",
+  "tags": "chess, chess shorts, halosar trap, blackmar diemer gambit, queen sacrifice, chess traps, checkmate",
+  "ig": "Black takes the white queen on move eight, and it's checkmate on move nine. Would you have taken the queen?\n\n#chess #halosartrap #queensacrifice #chesstraps #checkmate",
+  "replaces": "HALO"
+ },
+ "FRM2": {
+  "title": "Grab a pawn on move 2 and get checkmated on move 6 #shorts",
+  "desc": "1.f4 e5 2.fxe5 d6 3.exd6 Bxd6 4.Nc3?? Qh4+ 5.g3 Qxg3+ 6.hxg3 Bxg3#. 4.Nf3 stops it. It's called From's Gambit.\n\nHave you ever played f4?\n\n#chess #fromsgambit #birdsopening",
+  "tags": "chess, chess shorts, from's gambit, bird's opening, chess traps, chess openings, checkmate",
+  "ig": "White grabs a pawn on move two, and he's checkmated on move six. Have you ever played f4?\n\n#chess #fromsgambit #birdsopening #chesstraps #checkmate",
+  "replaces": "FROM"
+ },
+ "MRT2": {
+  "title": "Grab a free pawn on move 5 and lose a knight on move 7 #shorts",
+  "desc": "1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 Ne7 5.Nxe5? c6 6.Ba4 Qa5+ 7.c3 Qxe5. The check from a5 also hits the knight on e5. It's the Mortimer trap in the Spanish opening.\n\nWould you have taken the pawn?\n\n#chess #ruylopez #chesstraps",
+  "tags": "chess, chess shorts, mortimer trap, ruy lopez, spanish opening, chess traps, chess openings",
+  "ig": "White grabs a free pawn on move five, and he loses a knight on move seven. Would you have taken the pawn?\n\n#chess #ruylopez #chesstraps #chessopenings #chesstips",
+  "replaces": "MORT"
+ },
+ "FSH3": {
+  "title": "Take the knight on move 6, and it's checkmate three moves later #shorts",
+  "desc": "1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Ng4 5.h3 h5 6.hxg4? hxg4 7.Ne1 Qh4 8.f3 g3 9.Bxc6 Qh2#. The open h file does the rest. It's called the Fishing Pole trap.\n\nWould you have taken the knight?\n\n#chess #fishingpole #chesstraps",
+  "tags": "chess, chess shorts, fishing pole trap, ruy lopez, chess traps, chess openings, checkmate",
+  "ig": "Black lets White take his knight on move six. Three moves later, it's checkmate. Would you have taken the knight?\n\n#chess #fishingpole #chesstraps #ruylopez #checkmate",
+  "replaces": "FSH2"
+ }
+}
