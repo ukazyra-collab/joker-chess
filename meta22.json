@@ -1,0 +1,58 @@
+{
+ "RPDR": {
+  "title": "A whole pawn up, and it's a draw #shorts",
+  "desc": "King and rook pawn against a lone king: if the defending king reaches the corner in front of the pawn, it's a draw. Pushing the pawn to the seventh row stalemates Black, and stepping away lets the king walk back to the corner.\n\nDid you know this one?\n\n#chess #chessendgame #stalemate",
+  "tags": "chess, chess shorts, chess endgame, rook pawn, stalemate, king and pawn endgame, chess tips",
+  "ig": "White is a whole pawn up, and it's a draw. Did you know this one?\n\n#chess #chessendgame #stalemate #chesstips #chesslovers",
+  "slot_dubai": "2026-11-23 22:45"
+ },
+ "EPPN": {
+  "title": "En passant looks possible here, but it's illegal #shorts",
+  "desc": "Black plays c7-c5, right next to White's pawn on b5. Normally bxc6 en passant would be legal, but both pawns would leave the fifth row and the rook on h5 would check the white king on a5. A move that leaves your own king in check is never legal.\n\nDid you see the rook?\n\n#chess #enpassant #chessrules",
+  "tags": "chess, chess shorts, en passant, chess rules, illegal move, chess for beginners, chess tricks",
+  "ig": "En passant looks possible here, but it's illegal. Did you see the rook?\n\n#chess #enpassant #chessrules #chessforbeginners #chesstips",
+  "slot_dubai": "2026-11-24 12:45"
+ },
+ "BRK2": {
+  "title": "Same pawns, but Black moves first. Only one move saves him #shorts",
+  "desc": "The pawn breakthrough position with Black to move. 1...b6! is the only move that holds: 2.axb6 axb6 3.cxb6 cxb6 and nothing gets through. Any other move lets White break through with b6.\n\nWould you have found b6?\n\n#chess #chessendgame #chesspuzzle",
+  "tags": "chess, chess shorts, chess endgame, pawn breakthrough, pawn endgame, chess puzzle, chess tips",
+  "ig": "Same pawns, but now Black moves first. Only one move saves him. Would you have found b6?\n\n#chess #chessendgame #chesspuzzle #pawnbreakthrough #chesstips",
+  "slot_dubai": "2026-11-24 14:45"
+ },
+ "CSM2": {
+  "title": "Castling can be checkmate #shorts",
+  "desc": "The black king is on g1. The bishop on d5 covers g2 and h1, the knight on g4 covers f2 and h2. 1.O-O-O puts the rook on d1, it checks along the first row, and it's checkmate.\n\nHave you ever mated with castling?\n\n#chess #checkmate #castling",
+  "tags": "chess, chess shorts, castling, checkmate, chess rules, chess tricks, chess puzzle",
+  "ig": "Castling can be checkmate. Have you ever mated with castling?\n\n#chess #checkmate #castling #chesstricks #chesspuzzle",
+  "slot_dubai": "2026-11-24 16:45"
+ },
+ "PRKM": {
+  "title": "Make a queen and it's a draw. Make a knight and it's checkmate #shorts",
+  "desc": "White to move: b8=Q, b8=R and b8=B all leave the black king on a6 without a move and not in check: stalemate. Only b8=N gives check, and with the bishop on b6 and the king on c6 it's checkmate.\n\nWould you have made a queen?\n\n#chess #underpromotion #chesspuzzle",
+  "tags": "chess, chess shorts, underpromotion, chess tricks, stalemate, checkmate, chess puzzle",
+  "ig": "Make a queen here, and it's a draw. Make a knight, and it's checkmate. Would you have made a queen?\n\n#chess #underpromotion #chesspuzzle #checkmate #chesstricks",
+  "slot_dubai": "2026-11-24 18:45"
+ },
+ "NINQ": {
+  "title": "One side can have nine queens at the same time #shorts",
+  "desc": "A pawn that reaches the last row can become a queen even if you still have your first one. Eight pawns can make eight new queens, so nine queens on one side is legal.\n\nDid you know this?\n\n#chess #chessrules #promotion",
+  "tags": "chess, chess shorts, chess rules, promotion, nine queens, chess facts, chess for beginners",
+  "ig": "One side can have nine queens at the same time. Did you know this?\n\n#chess #chessrules #promotion #chessfacts #chessforbeginners",
+  "slot_dubai": "2026-11-24 20:45"
+ },
+ "KNPM": {
+  "title": "This little pawn is the reason Black loses #shorts",
+  "desc": "King and knight can never checkmate a bare king. But here Black's own pawn blocks a2, and 1.Nb3 is checkmate. Without the pawn the king would simply step to a2.\n\nDid you know a knight can do this?\n\n#chess #checkmate #chessendgame",
+  "tags": "chess, chess shorts, chess endgame, knight checkmate, chess tricks, chess puzzle, checkmate",
+  "ig": "This little pawn is the reason Black loses. Did you know a knight can do this?\n\n#chess #checkmate #chessendgame #chesstricks #chesspuzzle",
+  "slot_dubai": "2026-11-24 22:45"
+ },
+ "CSB1": {
+  "title": "The rook crosses an attacked square, and castling is still legal #shorts",
+  "desc": "When castling long, the rook passes b1, and it may be attacked. Only the king's squares count: e1, d1 and c1 must not be attacked. Here the bishop hits b1, and White can still castle.\n\nDid you know this rule?\n\n#chess #castling #chessrules",
+  "tags": "chess, chess shorts, castling, chess rules, queenside castling, chess for beginners, chess tips",
+  "ig": "The rook crosses an attacked square, and castling is still legal. Did you know this rule?\n\n#chess #castling #chessrules #chessforbeginners #chesstips",
+  "slot_dubai": "2026-11-25 12:45"
+ }
+}
