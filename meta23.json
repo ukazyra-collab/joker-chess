@@ -1,0 +1,58 @@
+{
+ "N3MT": {
+  "title": "Three knights against a lone king. Can White force mate? #shorts",
+  "desc": "Two knights can't force mate, the king always slips away. Three knights can: here they close in and the last jump, Nb5, is checkmate.\n\nDid you know this one?\n\n#chess #checkmate #chessendgame",
+  "tags": "chess, chess shorts, chess endgame, knight checkmate, three knights, chess facts, checkmate",
+  "ig": "Three knights against a lone king. Can White force checkmate? Did you know this one?\n\n#chess #checkmate #chessendgame #chessfacts #chesspuzzle",
+  "slot_dubai": "2026-11-25 14:45"
+ },
+ "QVPC": {
+  "title": "A whole queen against one pawn. Who wins? #shorts",
+  "desc": "The c-pawn is one step from promotion and the white king is far away. After 1.Qb4+ Ka1 2.Qc3+ Kb1 3.Qb3+ Ka1 White can't take: 4.Qxc2 is stalemate. With a pawn on the c file this trick saves the game, so it's a draw.\n\nDid you know this trick?\n\n#chess #chessendgame #stalemate",
+  "tags": "chess, chess shorts, chess endgame, queen vs pawn, stalemate, chess tricks, chess tips",
+  "ig": "A whole queen against one pawn. Who wins? Did you know this trick?\n\n#chess #chessendgame #stalemate #chesstricks #chesstips",
+  "slot_dubai": "2026-11-25 16:45"
+ },
+ "ARBM": {
+  "title": "A rook and a knight trap the king in the corner. What is this mate called? #shorts",
+  "desc": "The knight on f6 guards h7 and covers g8. The rook slides to h7: the king can't take it and can't run. It's the Arabian mate, one of the oldest mates in chess.\n\nDid you know its name?\n\n#chess #checkmate #chesstactics",
+  "tags": "chess, chess shorts, arabian mate, checkmate patterns, chess tactics, checkmate, chess tips",
+  "ig": "A rook and a knight trap the king in the corner. What is this mate called? Did you know its name?\n\n#chess #checkmate #chesstactics #checkmatepattern #chesstips",
+  "slot_dubai": "2026-11-25 18:45"
+ },
+ "K32N": {
+  "title": "Can 32 knights stand on the board without attacking each other? #shorts",
+  "desc": "Yes: put every one of them on a light square. A knight always jumps to a square of the other colour, so none of them can attack another. And 32 is the most you can fit.\n\nDid you know this one?\n\n#chess #chesspuzzle #chessfacts",
+  "tags": "chess, chess shorts, chess puzzle, knights, chess facts, chess math, chess for beginners",
+  "ig": "Can 32 knights stand on the board without attacking each other? Did you know this one?\n\n#chess #chesspuzzle #chessfacts #knight #chessmath",
+  "slot_dubai": "2026-11-25 20:45"
+ },
+ "KBNM": {
+  "title": "Bishop and knight against a lone king. Can White force mate? #shorts",
+  "desc": "Yes, but only in a corner the bishop can reach. With a light-squared bishop the mate happens on a8 or h1. Here: 1.Kb6 Kb8 2.Ne7 Ka8 3.Kc7 Ka7 4.Nc8+ Ka8 5.Bf3#. From the worst start it can take up to 33 moves.\n\nCould you do it?\n\n#chess #checkmate #chessendgame",
+  "tags": "chess, chess shorts, chess endgame, bishop and knight checkmate, checkmate, chess tips, basic checkmates",
+  "ig": "A bishop and a knight against a lone king. Can White force checkmate? Could you do it?\n\n#chess #checkmate #chessendgame #chesstips #chesslovers",
+  "slot_dubai": "2026-11-25 22:45"
+ },
+ "OPPN": {
+  "title": "Same position. Black to move loses, White to move only draws. Why? #shorts",
+  "desc": "King and pawn against king. If Black has to move, his king must step aside, the white king walks in and the pawn goes through. If White has to move, the black king stays right in front. It's called the opposition.\n\nDid you know the opposition?\n\n#chess #chessendgame #opposition",
+  "tags": "chess, chess shorts, chess endgame, opposition, king and pawn endgame, chess tips, chess for beginners",
+  "ig": "Same position. Black to move loses, and White to move only draws. Why? Did you know the opposition?\n\n#chess #chessendgame #opposition #chesstips #chessforbeginners",
+  "slot_dubai": "2026-11-26 12:45"
+ },
+ "EPLT": {
+  "title": "The king is trapped by his own rooks. What is this mate called? #shorts",
+  "desc": "Black's rooks stand on d8 and f8, on both sides of their king. The queen lands on e6 and covers d7, e7 and f7: checkmate. It's called the epaulette mate, the rooks sit on his shoulders like epaulettes.\n\nDid you know its name?\n\n#chess #checkmate #chesstactics",
+  "tags": "chess, chess shorts, epaulette mate, checkmate patterns, chess tactics, checkmate, chess tips",
+  "ig": "The king is trapped by his own rooks. What is this mate called? Did you know its name?\n\n#chess #checkmate #chesstactics #checkmatepattern #chesstips",
+  "slot_dubai": "2026-11-26 14:45"
+ },
+ "Q5DM": {
+  "title": "Can five queens attack every square on the board? #shorts",
+  "desc": "With four queens at least one square always stays safe. Five queens on the long diagonal (b2, c3, d4, f6, h8) cover all 64 squares, and in total there are 4,860 ways to do it with five.\n\nCould you find another one?\n\n#chess #chesspuzzle #chessmath",
+  "tags": "chess, chess shorts, chess puzzle, queens, chess math, chess facts, five queens",
+  "ig": "Can five queens attack every square on the board? Could you find another one?\n\n#chess #chesspuzzle #chessmath #chessfacts #queens",
+  "slot_dubai": "2026-11-26 16:45"
+ }
+}
