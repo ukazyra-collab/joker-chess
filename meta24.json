@@ -1,0 +1,58 @@
+{
+ "KNP2": {
+  "title": "Two knights can't mate a bare king. Unless Black has a pawn #shorts",
+  "desc": "With no pawn, 1.Kg6 would be stalemate. With the pawn, Black has to push it: 1.Kg6 a4 2.Nf6 a3 3.Nf7#. The extra pawn is the reason Black loses.\n\nDid you know this one?\n\n#chess #checkmate #chessendgame",
+  "tags": "chess, chess shorts, chess endgame, two knights, checkmate, stalemate, chess facts",
+  "ig": "Two knights can't mate a bare king. Unless Black has a pawn. Did you know this one?\n\n#chess #checkmate #chessendgame #stalemate #chessfacts",
+  "slot_dubai": "2026-11-26 18:45"
+ },
+ "KVNP": {
+  "title": "A whole knight against one pawn. Who wins? #shorts",
+  "desc": "The knight stands right next to the corner, but after 1.h7 it needs f7 or g6 to guard h8, and from g8 it can reach neither (only e7, f6 and h6). So 2.h8=Q, and the pawn wins. Knights hate the edge of the board.\n\nDid you guess right?\n\n#chess #chessendgame #knight",
+  "tags": "chess, chess shorts, chess endgame, knight vs pawn, rook pawn, chess tips, chess puzzle",
+  "ig": "A whole knight against one pawn. Who wins? Did you guess right?\n\n#chess #chessendgame #knight #chesstips #chesspuzzle",
+  "slot_dubai": "2026-11-26 20:45"
+ },
+ "QRCE": {
+  "title": "Black just made a queen. Two moves later, she's gone #shorts",
+  "desc": "Both pawns race. 1...h1=Q 2.a8=Q+ gives check along the long diagonal, the king has to step off it, and 3.Qxh1 takes the queen behind him. It's called a skewer.\n\nDid you see it coming?\n\n#chess #chesstactics #skewer",
+  "tags": "chess, chess shorts, chess endgame, skewer, queen race, chess tactics, chess tips",
+  "ig": "Black just made a queen. Two moves later, she's gone. Did you see it coming?\n\n#chess #chesstactics #skewer #chessendgame #chesstips",
+  "slot_dubai": "2026-11-26 22:45"
+ },
+ "M2PZ": {
+  "title": "Mate in two. Can you find it? #shorts",
+  "desc": "White to move: 1.Qg8+! Rxg8 (forced, the knight guards g8) 2.Nf7#. The king is buried by his own rook and pawns. It's called a smothered mate.\n\nDid you find it before the answer?\n\n#chess #chesspuzzle #mateintwo",
+  "tags": "chess, chess shorts, chess puzzle, mate in 2, smothered mate, chess tactics, checkmate",
+  "ig": "Mate in two. Can you find it? Did you find it before the answer?\n\n#chess #chesspuzzle #mateintwo #smotheredmate #chesstactics",
+  "slot_dubai": "2026-11-27 12:45"
+ },
+ "GST3": {
+  "title": "White is one move from checkmate. Then he plays this #shorts",
+  "desc": "Queen and king against king. Qg6 takes every square from the king, but it isn't check, so it's stalemate and a draw. Any check on the h-file (Qh4 or Qh1) was mate.\n\nHave you ever done this?\n\n#chess #stalemate #checkmate",
+  "tags": "chess, chess shorts, stalemate, chess endgame, checkmate, chess tips, chess for beginners",
+  "ig": "White is one move from checkmate. Then he plays this. Have you ever done this?\n\n#chess #stalemate #checkmate #chesstips #chessforbeginners",
+  "slot_dubai": "2026-11-27 14:45"
+ },
+ "KV2P": {
+  "title": "The king stands between two loose pawns. Can he stop both? #shorts",
+  "desc": "He can catch either one, he stands inside the square of both. But while he runs after one, the other runs too: 1...Kf4 2.a5 Kg4 3.a6 Kxh4 4.a7 and 5.a8=Q. One king can't stop two pawns this far apart.\n\nDid you know the square rule?\n\n#chess #chessendgame #pawnendgame",
+  "tags": "chess, chess shorts, chess endgame, pawn endgame, square rule, chess tips, chess for beginners",
+  "ig": "The king stands between two loose pawns. Can he stop both? Did you know the square rule?\n\n#chess #chessendgame #pawnendgame #chesstips #chessforbeginners",
+  "slot_dubai": "2026-11-27 16:45"
+ },
+ "PNMT": {
+  "title": "This pawn is pinned, and it still protects the queen #shorts",
+  "desc": "1.Qg7#. The queen's only guard is the f6 pawn, and the f8 rook pins it to the white king. But a pinned piece still gives check, so Kxg7 is illegal, and it's checkmate.\n\nDid you know this rule?\n\n#chess #chessrules #checkmate",
+  "tags": "chess, chess shorts, chess rules, pin, checkmate, chess tactics, chess tips",
+  "ig": "This pawn is pinned, and it still protects the queen. Did you know this rule?\n\n#chess #chessrules #checkmate #chesstactics #chesstips",
+  "slot_dubai": "2026-11-27 18:45"
+ },
+ "WFM3": {
+  "title": "White's fastest checkmate takes three moves #shorts",
+  "desc": "1.e4 g5 2.d4 f6 3.Qh5#. The king can't move, and nothing can block the check on the e8-h5 diagonal. Black's fastest mate, Fool's Mate, takes two.\n\nHave you ever seen it in a game?\n\n#chess #checkmate #chesstraps",
+  "tags": "chess, chess shorts, checkmate, fastest checkmate, chess traps, chess openings, chess for beginners",
+  "ig": "White's fastest checkmate takes three moves. Have you ever seen it in a game?\n\n#chess #checkmate #chesstraps #chessopenings #chessforbeginners",
+  "slot_dubai": "2026-11-27 20:45"
+ }
+}
